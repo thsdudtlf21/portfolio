@@ -152,3 +152,29 @@ dd { margin: 0; }
   .detail-images, .detail-info, .inform-page { padding: 24px; }
   .client-table { grid-template-columns: 1fr; }
 }
+
+/* Hover focus effect: 마우스를 올리면 흰 박스 + 그림자 강조 */
+.work-card,
+.inform-grid > section,
+.client-table div,
+.detail-images,
+.detail-info {
+  position: relative;
+  transition: background-color .25s ease, box-shadow .25s ease, transform .25s ease, z-index .25s ease;
+}
+
+.work-card:hover,
+.inform-grid > section:hover,
+.client-table div:hover,
+.detail-images:hover,
+.detail-info:hover {
+  background: #f9f9f9;
+  box-shadow:
+    inset 0 0 18px rgba(0,0,0,.08),
+    inset 0 0 40px rgba(0,0,0,.04);
+  z-index: 10;
+}
+
+.inform-grid > section:hover {
+  min-height: 100%;
+}
