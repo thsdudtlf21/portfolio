@@ -136,15 +136,19 @@ function renderDetail(id) {
 
   app.innerHTML = `
     <section class="detail-page">
+      <aside class="detail-title">
+        <h1>${item.title}</h1>
+        <p class="sub">${item.category}</p>
+      </aside>
+
       <div class="detail-images">
         ${item.detailImages.map(src => `<img src="${src}" alt="${item.title}" />`).join('')}
       </div>
+
       <aside class="detail-info">
-        <h1>${item.title}</h1>
-        <p class="sub">${item.category}</p>
         <dl>
           <div><dt>Client.</dt><dd>${item.client}</dd></div>
-          <div><dt>Direction.</dt><dd>${item.direction}</dd></div>
+          <div><dt>Direction.</dt><dd>${item.direction || ''}</dd></div>
           <div><dt>Design.</dt><dd>${item.design}</dd></div>
           <div><dt>Field.</dt><dd>${item.field}</dd></div>
         </dl>

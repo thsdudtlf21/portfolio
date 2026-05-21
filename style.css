@@ -65,9 +65,14 @@ a { color: inherit; text-decoration: none; }
 .detail-page {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  grid-template-areas:
+    "images title"
+    "images info";
+  grid-template-rows: auto 1fr;
   min-height: calc(100vh - 126px);
 }
 .detail-images {
+  grid-area: images;
   padding: 38px;
   border-right: 1px solid #ddd;
 }
@@ -77,13 +82,19 @@ a { color: inherit; text-decoration: none; }
   margin-bottom: 34px;
   background: #ffffff;
 }
-.detail-info {
-  padding: 42px 38px;
+.detail-title {
+  grid-area: title;
+  padding: 42px 38px 28px;
   position: sticky;
   top: 0;
   align-self: start;
 }
-.detail-info h1 {
+.detail-info {
+  grid-area: info;
+  padding: 42px 38px;
+  align-self: start;
+}
+.detail-title h1 {
   margin: 0 0 8px;
   font-size: 14px;
   line-height: 1.35;
@@ -138,9 +149,21 @@ dd { margin: 0; }
   .grid-page { grid-template-columns: repeat(2, 1fr); }
   .site-header { padding: 38px 24px 22px; }
   .logo, .nav a { font-size: 20px; }
-  .detail-page { grid-template-columns: 1fr; }
-  .detail-images { border-right: 0; border-bottom: 1px solid #ddd; }
-  .detail-info { position: static; }
+  .detail-page {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "title"
+      "images"
+      "info";
+  }
+  .detail-title {
+    position: static;
+    border-bottom: 1px solid #ddd;
+  }
+  .detail-images {
+    border-right: 0;
+    border-bottom: 1px solid #ddd;
+  }
   .inform-grid { grid-template-columns: 1fr; }
   .inform-grid > section { border-right: 0; border-bottom: 1px solid #ddd; }
 }
@@ -164,7 +187,31 @@ dd { margin: 0; }
   }
   .grid-page { grid-template-columns: 1fr; }
   .work-card { min-height: auto; padding: 20px; }
-  .detail-images, .detail-info, .inform-page { padding: 24px; }
+  .detail-title,
+  .detail-images,
+  .detail-info,
+  .inform-page {
+    padding: 24px;
+  }
+
+  .detail-title h1 {
+    font-size: 28px;
+    line-height: 1.35;
+  }
+
+  .detail-title .sub {
+    font-size: 24px;
+    margin-bottom: 0;
+  }
+
+  .detail-info dl div {
+    font-size: 20px;
+    line-height: 1.5;
+  }
+
+  .detail-info .description {
+    display: none;
+  }
   .client-table { grid-template-columns: 1fr; }
 }
 
