@@ -64,8 +64,21 @@ window.PORTFOLIO_DATA = {
   ],
   projects: [
     {
-      id: 'project-01',
+      id: 'busan-dexter-project',
       title: 'Personal Project 01',
+      category: 'project',
+      year: '2026',
+      image: 'images/sample-project-01.svg',
+      client: 'Personal',
+      direction: 'Self Direction',
+      design: 'Self Design',
+      field: '브랜딩, 그래픽',
+      description: '개인 프로젝트 설명을 입력하는 영역입니다.',
+      detailImages: ['images/sample-project-01.svg']
+    },
+    {
+      id: 'brochure-project',
+      title: '기업/제품 안내 브로슈어',
       category: 'project',
       year: '2026',
       image: 'images/sample-project-01.svg',
@@ -171,27 +184,19 @@ function renderInform() {
       <h1>Inform</h1>
       <div class="inform-grid">
         <section class="about">
-          <h3>${info.aboutTitle}</h3>
-          <p>${info.about}</p>
+          <h3>${info.aboutTitle || ''}</h3>
+          <p>${info.about || ''}</p>
         </section>
         <section class="people">
-          ${listBlock('Design Team', info.designTeam)}
-          ${listBlock('Professional Partner', info.partner)}
-          ${listBlock('Management', info.management)}
+          ${listBlock('Education', info.Education || [])}
+          ${listBlock('Experience', info.Experience || [])}
+          ${listBlock('Certificate', info.Certificate || [])}
         </section>
         <section class="contact">
-          ${listBlock('Contact', info.contact)}
-          ${listBlock('Location', info.location)}
-          ${listBlock('Web/SNS', info.web)}
+          ${listBlock('Contact', info.contact || [])}
+          ${listBlock('Location', info.location || [])}
+          ${listBlock('Web/SNS', info.web || [])}
         </section>
-      </div>
-      <h2>Clients</h2>
-      <div class="client-table">
-        <div>Public Institution</div>
-        <div>Corporation Identity</div>
-        <div>Music Performing</div>
-        <div>Art Exhibition</div>
-        <div>Books Magazine</div>
       </div>
     </section>
   `;
@@ -219,4 +224,3 @@ function router() {
 
 window.addEventListener('hashchange', router);
 window.addEventListener('DOMContentLoaded', router);
-
