@@ -158,10 +158,9 @@ dd { margin: 0; }
 .work-card,
 .inform-grid > section,
 .client-table div,
-.detail-images,
-.detail-info {
+.detail-images,{
   position: relative;
-  transition: background-color .25s ease, box-shadow .25s ease, transform .25s ease, z-index .25s ease;
+  transition: background-color .20s ease, box-shadow .20s ease, transform .25s ease, z-index .25s ease;
 }
 
 .work-card:hover,
