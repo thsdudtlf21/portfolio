@@ -128,8 +128,8 @@ dd { margin: 0; }
   border-right: 1px solid #ddd;
 }
 .inform-grid > section:last-child { border-right: 0; }
-.inform-grid h3 { margin: 0 0 14px; font-size: 14px; }
-.inform-grid p { margin: 0 0 8px; color: #666; font-size: 12px; line-height: 1.7; font-weight: 300;}
+.inform-grid h3 { margin: 0 0 14px; font-size: 15px; }
+.inform-grid p { margin: 0 0 8px; color: #666; font-size: 14px; line-height: 1.7; font-weight: 300;}
 .people section, .contact section { margin-bottom: 34px; }
 .client-table {
   display: grid;
