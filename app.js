@@ -11,7 +11,7 @@ window.PORTFOLIO_DATA = {
   siteTitle: 'PORTFOLIO',
   works: [
     {
-      id: 'ijaram-jakchang',
+      id: 'busan-babyfair-2022-31',
       title: '31회 부산드림베이비페어',
       category: 'exhibition, work',
       year: '2022',
@@ -23,7 +23,7 @@ window.PORTFOLIO_DATA = {
       detailImages: ['images/1/2025_pf_1.jpg', 'images/1/2025_pf_1-1.jpg', 'images/1/2025_pf_1-2.jpg']
     },
     {
-      id: 'silro-winter',
+      id: 'busan-babyfair-2023-32',
       title: '32회 부산드림베이비페어',
       category: 'exhibition, work',
       year: '2023',
@@ -36,28 +36,42 @@ window.PORTFOLIO_DATA = {
       detailImages: ['images/1/2025_pf_2.jpg', 'images/1/2025_pf_2-1.jpg', 'images/1/2025_pf_2-2.jpg']
     },
     {
-      id: 'cheongpung',
+      id: 'busan-babyfair-2023-33',
       title: '33회 부산드림베이비페어',
       category: 'exhibition, work',
       year: '2023',
       image: 'images/1/2025_pf_3.jpg',
-      client: '(주)앤유',
-      direction: 'Design Team',
-      design: '손영실',
-      field: '포스터, 초대권, 웹배너, 상세페이지, 현장디자인 등',
+      field: '포스터, 현수막, 배너, 리플렛, 사인물 등 전시·현장 중심의 시각 콘텐츠 제작',
       description: '음악의 리듬감과 전통적 이미지를 현대적인 그래픽으로 풀어낸 작업입니다.',
       detailImages: ['images/1/2025_pf_3.jpg', 'images/1/2025_pf_3-1.jpg', 'images/1/2025_pf_3-2.jpg', 'images/1/2025_pf_3-3.jpg', 'images/1/2025_pf_3-4.jpg']
     },
     {
-      id: 'finance-story',
+      id: 'busan-baby-edu-fair-2023-34',
       title: '34회 부산베이비페어&유아교육용품전',
       category: 'exhibition, work',
       year: '2023',
       image: 'images/1/2025_pf_4.jpg',
-      client: '(주)앤유)',
-      direction: 'Design Team',
-      design: 'Designer',
-      field: '포스터, 안내 그래픽',
+      field: '포스터, 현수막, 배너, 리플렛, 사인물 등 전시·현장 중심의 시각 콘텐츠 제작',
+      description: '어린이 관람객이 쉽게 이해할 수 있도록 밝은 일러스트 중심으로 구성한 작업입니다.',
+      detailImages: ['images/1/2025_pf_4.jpg', 'images/1/2025_pf_4-1.jpg', 'images/1/2025_pf_4-2.jpg']
+    },
+    {
+      id: 'busan-baby-edu-fair-2023-35',
+      title: '35회 부산베이비페어&유아교육용품전',
+      category: 'exhibition, work',
+      year: '2023',
+      image: 'images/1/2025_pf_5.jpg',
+      field: '포스터, 현수막, 배너, 리플렛, 사인물 등 전시·현장 중심의 시각 콘텐츠 제작',
+      description: '어린이 관람객이 쉽게 이해할 수 있도록 밝은 일러스트 중심으로 구성한 작업입니다.',
+      detailImages: ['images/1/2025_pf_4.jpg', 'images/1/2025_pf_4-1.jpg', 'images/1/2025_pf_4-2.jpg']
+    },
+    {
+      id: 'busan-baby-edu-fair-2023-36',
+      title: '36회 부산베이비페어&유아교육용품전',
+      category: 'exhibition, work',
+      year: '2023',
+      image: 'images/1/2025_pf_6.jpg',
+      field: '포스터, 현수막, 배너, 리플렛, 사인물 등 전시·현장 중심의 시각 콘텐츠 제작',
       description: '어린이 관람객이 쉽게 이해할 수 있도록 밝은 일러스트 중심으로 구성한 작업입니다.',
       detailImages: ['images/1/2025_pf_4.jpg', 'images/1/2025_pf_4-1.jpg', 'images/1/2025_pf_4-2.jpg']
     }
@@ -69,6 +83,19 @@ window.PORTFOLIO_DATA = {
       category: 'project',
       year: '2026',
       image: 'images/sample-project-01.svg',
+      client: '삼화플로트',
+      direction: 'Self Direction',
+      design: 'Self Design',
+      field: '브랜딩, 그래픽',
+      description: '개인 프로젝트 설명을 입력하는 영역입니다.',
+      detailImages: ['images/sample-project-01.svg']
+    },
+    {
+      id: 'ulsan-dexter-project',
+      title: '기업/제품 안내 브로슈어',
+      category: 'project',
+      year: '2026',
+      image: 'images/sample-project-01.svg',
       client: 'Personal',
       direction: 'Self Direction',
       design: 'Self Design',
@@ -77,10 +104,10 @@ window.PORTFOLIO_DATA = {
       detailImages: ['images/sample-project-01.svg']
     },
     {
-      id: 'brochure-project',
+      id: 'samhwa-project',
       title: '기업/제품 안내 브로슈어',
       category: 'project',
-      year: '2026',
+      year: '2025',
       image: 'images/sample-project-01.svg',
       client: 'Personal',
       direction: 'Self Direction',
