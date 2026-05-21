@@ -14,14 +14,14 @@ a { color: inherit; text-decoration: none; }
   border-bottom: 1px solid #ddd;
 }
 .logo {
-  font-size: 24px;
+  font-size: 20px;
   letter-spacing: -1px;
   color: #000000;
   font-weight: 400;
 }
 .nav { display: flex; gap: 28px; }
 .nav a {
-  font-size: 18px;
+  font-size: 17px;
   font-weight: 200;
   color: #999;
   line-height: 1;
@@ -33,15 +33,15 @@ a { color: inherit; text-decoration: none; }
   border-left: 1px solid #e2e2e2;
 }
 .work-card {
-  min-height: 470px;
+  min-height: 450px;
   padding: 28px 28px 24px;
   border-right: 1px solid #e2e2e2;
   border-bottom: 1px solid #e2e2e2;
 }
 .thumb-wrap {
   display: block;
-  background: #eee;
-  aspect-ratio: 1 / 0.9;
+  background: #ffffff;
+  aspect-ratio: 1 / 0.7;
   overflow: hidden;
 }
 .thumb {
@@ -53,14 +53,14 @@ a { color: inherit; text-decoration: none; }
 .thumb-wrap:hover .thumb { transform: scale(1.03); }
 .work-meta h2 {
   margin: 18px 0 4px;
-  font-size: 17px;
-  font-weight: 400;
+  font-size: 15px;
+  font-weight: 300;
   line-height: 1.45;
 }
 .work-meta p {
   margin: 3px 0;
   color: #8b8b8b;
-  font-size: 16px;
+  font-size: 14px;
 }
 .detail-page {
   display: grid;
@@ -75,7 +75,7 @@ a { color: inherit; text-decoration: none; }
   width: 100%;
   display: block;
   margin-bottom: 34px;
-  background: #f4f4f4;
+  background: #ffffff;
 }
 .detail-info {
   padding: 42px 38px;
