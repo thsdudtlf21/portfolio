@@ -27,7 +27,7 @@ window.PORTFOLIO_DATA = {
       title: '서울옥션 'MOOI-POPUP'',
       category: 'branding, work',
       year: '2026',
-      image: 'images/2/sa-mooi-1.jpg','images/2/sa-mooi-2.jpg'
+      image: 'images/2/sa-mooi-1.jpg',
       client: '더챔버 멤버쉽 회원',
       design: '서울옥션 디자인팀',
       field: '포스터, 초대권, 웹배너, 상세페이지, 현장디자인 등',
