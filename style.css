@@ -172,10 +172,10 @@ dd { margin: 0; }
 .inform-grid > section:hover,
 .client-table div:hover,
 .detail-images:hover {
-  background: #f9f9f9;
+  background: #ffffff;
   box-shadow:
-    inset 0 0 18px rgba(0,0,0,.08),
-    inset 0 0 40px rgba(0,0,0,.04);
+    inset 0 0 18px rgba(0, 0, 0, 0.054),
+    inset 0 0 40px rgba(0,0,0, 0.054);
   z-index: 10;
 }
 
