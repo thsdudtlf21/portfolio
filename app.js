@@ -11,6 +11,30 @@ window.PORTFOLIO_DATA = {
   siteTitle: 'PORTFOLIO',
   works: [
     {
+      id: 'seoulauction-1',
+      title: '서울옥션 'MEBERSHIP KIT'',
+      category: 'branding, work',
+      year: '2026',
+      image: 'images/2/the chamber-4.jpg',
+      client: '더챔버 멤버쉽 회원',
+      design: '서울옥션 디자인팀',
+      field: '포스터, 초대권, 웹배너, 상세페이지, 현장디자인 등',
+      description: '공연의 성격과 시각적 분위기를 전달하기 위한 포스터 중심의 그래픽 작업입니다.',
+      detailImages: ['images/2/the chamber-1.jpg', 'images/2/the chamber-2.jpg', 'images/2/the chamber-3.jpg', 'images/2/the chamber-4.jpg', 'images/2/the chamber-5.jpg']
+    },
+    {
+      id: 'seoulauction-1',
+      title: '서울옥션 'MOOI-POPUP'',
+      category: 'branding, work',
+      year: '2026',
+      image: 'images/2/sa-mooi-1.jpg','images/2/sa-mooi-2.jpg'
+      client: '더챔버 멤버쉽 회원',
+      design: '서울옥션 디자인팀',
+      field: '포스터, 초대권, 웹배너, 상세페이지, 현장디자인 등',
+      description: '공연의 성격과 시각적 분위기를 전달하기 위한 포스터 중심의 그래픽 작업입니다.',
+      detailImages: ['images/1/2025_pf_1.jpg', 'images/1/2025_pf_1-1.jpg', 'images/1/2025_pf_1-2.jpg']
+    },
+    {
       id: 'busan-babyfair-2022-31',
       title: '31회 부산드림베이비페어',
       category: 'exhibition, work',
