@@ -10,11 +10,11 @@ a { color: inherit; text-decoration: none; }
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 52px 42px 28px;
+  padding: 40px 42px 28px;
   border-bottom: 1px solid #ddd;
 }
 .logo {
-  font-size: 38px;
+  font-size: 28px;
   letter-spacing: -1px;
   color: #000000;
   font-weight: 400;
