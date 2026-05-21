@@ -160,7 +160,7 @@ dd { margin: 0; }
 .client-table div,
 .detail-images,{
   position: relative;
-  transition: background-color .20s ease, box-shadow .20s ease, transform .25s ease, z-index .25s ease;
+  transition: background-color .5s ease, box-shadow .5s ease, transform .5s ease, z-index .25s ease;
 }
 
 .work-card:hover,
