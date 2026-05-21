@@ -8,7 +8,7 @@
   - image 경로는 images 폴더 안 파일명으로 연결하세요.
 */
 window.PORTFOLIO_DATA = {
-  siteTitle: 'HONGDAN',
+  siteTitle: 'PORTFOLIO',
   works: [
     {
       id: 'ijaram-jakchang',
