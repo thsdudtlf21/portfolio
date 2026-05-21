@@ -11,8 +11,8 @@ window.PORTFOLIO_DATA = {
   siteTitle: 'PORTFOLIO',
   works: [
     {
-      id: 'seoulauction-1',
-      title: '서울옥션 'MEBERSHIP KIT'',
+      id: 'seoulauction-membership-kit',
+      title: "서울옥션 MEBERSHIP KIT",
       category: 'branding, work',
       year: '2026',
       image: 'images/2/the chamber-4.jpg',
@@ -23,8 +23,8 @@ window.PORTFOLIO_DATA = {
       detailImages: ['images/2/the chamber-1.jpg', 'images/2/the chamber-2.jpg', 'images/2/the chamber-3.jpg', 'images/2/the chamber-4.jpg', 'images/2/the chamber-5.jpg']
     },
     {
-      id: 'seoulauction-1',
-      title: '서울옥션 'MOOI-POPUP'',
+      id: 'seoulauction-mooi-popup',
+      title: "서울옥션 MOOI-POPUP",
       category: 'branding, work',
       year: '2026',
       image: 'images/2/sa-mooi-1.jpg',
