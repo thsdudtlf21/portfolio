@@ -21,7 +21,8 @@ a { color: inherit; text-decoration: none; }
 }
 .nav { display: flex; gap: 28px; }
 .nav a {
-  font-size: 30px;
+  font-size: 18px;
+  font-weight: 200;
   color: #999;
   line-height: 1;
 }
@@ -100,8 +101,8 @@ dd { margin: 0; }
 .inform-page { padding: 34px 68px 80px; }
 .inform-page > h1, .inform-page > h2 {
   margin: 0;
-  font-size: 38px;
-  font-weight: 400;
+  font-size: 28px;
+  font-weight: 300;
 }
 .inform-page > h1 { padding-bottom: 10px; }
 .inform-page > h2 { padding: 70px 0 10px; }
