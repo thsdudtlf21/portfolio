@@ -78,14 +78,16 @@ window.PORTFOLIO_DATA = {
     }
   ],
   inform: {
-    aboutTitle: 'About Hongdan',
-    about: '홍단은 보기 좋은 것을 넘어 본질을 바라보고, 내용을 충실하게 담아 내고자 합니다. 공연 예술분야, 미술 전시분야, 기업 아이덴티티와 홍보, 잡지 출판 분야에 걸친 그래픽 비주얼 작업들로 대중들과 만나고 있습니다. 이곳에 본인 소개 문구 또는 포트폴리오 소개 문구를 입력하면 됩니다.',
-    designTeam: ['Ban Yunjung | Art Director', 'Oh Hyuntaek | Designer', 'Seo Kanghyeon | Designer'],
-    partner: ['Seong Hayoung | Editor', 'Lee Eunsook | Photographer'],
-    management: ['Kim Seil | General Manager'],
-    contact: ['Tel. 02-765-9987', 'Fax. 02-765-9986', 'Mail. hongdan201@naver.com'],
-    location: ['경기 고양시 덕양구 으뜸로 8', '덕은아이에스비즈타워센트럴 1차 2110호', '(10542)'],
-    web: ['Hongdan201', 'Instagram']
+    aboutTitle: 'About Son Yeongsil',
+    about: 
+    '편집·그래픽·전시 디자인을 전문으로 하는 비주얼 커뮤니케이션 디자이너로, 다양한 매체를 통해 브랜드와 이벤트의 메시지를 시각적으로 효과적으로 전달하며 고객과 관람객의 경험을 풍부하고 인상 깊게 만듭니다. 창의적이고 실용적인 디자인 솔루션을 제공하며, 사람들의 관심을 끌고 소통을 이끌어내는 디자인을 추구합니다.또한 미술교육 경험을 바탕으로 학생들의 개별적 수준과 성향에 맞춘 창의적 표현과 시각적 사고를 지도하며, 디자인과 교육을 결합해 참여자와 관람객이 직접 경험하고 느낄 수 있는 환경을 설계합니다. 이를 통해 교육적 가치와 디자인적 완성도를 동시에 실현합니다.',
+    contact: ['Ban Yunjung | Art Director', 'Oh Hyuntaek | Designer', 'Seo Kanghyeon | Designer'],
+    Education: ['Seong Hayoung | Editor', 'Lee Eunsook | Photographer'],
+    Experience: ['Kim Seil | General Manager'],
+    Certificate: ['문화예술교육사 2급 문화체육관광부(2025)', '아동미술지도사 1급 한국자격검정평가진흥원(2024)', '아동심리상담사 1급    한국자격검정평가진흥원  (2024)'],
+    contact: ['Tel. 010-3260-4380', 'Mail. thsdudtlf21@naver.com'],
+    location: ['Seoul'],
+    web: ['www.sysportfolio.com', 'Instagram']
   }
 };
 
