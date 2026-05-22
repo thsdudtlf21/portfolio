@@ -57,11 +57,11 @@ window.PORTFOLIO_DATA = {
       title: '서울옥션과 함께하는 컬렉팅의 첫걸음',
       category: 'graphic design, work',
       year: '2026',
-      image: 'images/2/sa-collecting-1-1.jpg',
+      image: 'images/2/sa-collecting-1-2.jpg',
       design: '서울옥션 디자인팀',
       field: '모바일 초대장, 온라인 배너, SNS 콘텐츠',
       description: '컬렉팅 입문 콘텐츠의 메시지를 직관적으로 전달하기 위한 온라인 홍보 및 모바일 콘텐츠 디자인 작업',
-      detailImages: ['images/2/sa-collecting-1.jpg']
+      detailImages: ['images/2/sa-collecting-1-2.jpg']
     },
     {
       id: 'cheongpung',
