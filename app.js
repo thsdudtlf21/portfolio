@@ -11,127 +11,72 @@ window.PORTFOLIO_DATA = {
   siteTitle: 'PORTFOLIO',
   works: [
     {
-      id: 'seoulauction-membership-kit',
-      title: "서울옥션 MEBERSHIP KIT",
+      id: 'sa-THE CHAMBER',
+      title: 'THE CHAMBER',
       category: 'branding, work',
       year: '2026',
-      image: 'images/2/the chamber-4.jpg',
-      client: '더챔버 멤버쉽 회원',
+      image: 'images/2/the chamber-3.jpg',
       design: '서울옥션 디자인팀',
-      field: '포스터, 초대권, 웹배너, 상세페이지, 현장디자인 등',
-      description: '공연의 성격과 시각적 분위기를 전달하기 위한 포스터 중심의 그래픽 작업입니다.',
+      field: '브랜드 아이덴티티, 멤버십 키트, 패키지, 그래픽 디자인',
+      description: 'THE CHAMBER 멤버십 브랜드 아이덴티티를 기반으로 키트 및 프로모션 디자인 제작',
       detailImages: ['images/2/the chamber-1.jpg', 'images/2/the chamber-2.jpg', 'images/2/the chamber-3.jpg', 'images/2/the chamber-4.jpg', 'images/2/the chamber-5.jpg']
     },
     {
-      id: 'seoulauction-mooi-popup',
-      title: "서울옥션 MOOI-POPUP",
-      category: 'branding, work',
+      id: 'sa-MOOI-POPUP',
+      title: 'MOOI-POPUP',
+      category: 'exhibition, work',
       year: '2026',
-      image: 'images/2/sa-mooi-1.jpg',
-      client: '더챔버 멤버쉽 회원',
-      design: '서울옥션 디자인팀',
-      field: '포스터, 초대권, 웹배너, 상세페이지, 현장디자인 등',
-      description: '공연의 성격과 시각적 분위기를 전달하기 위한 포스터 중심의 그래픽 작업입니다.',
-      detailImages: ['images/1/2025_pf_1.jpg', 'images/1/2025_pf_1-1.jpg', 'images/1/2025_pf_1-2.jpg']
-    },
-    {
-      id: 'busan-babyfair-2022-31',
-      title: '31회 부산드림베이비페어',
-      category: 'exhibition, work',
-      year: '2022',
-      image: 'images/1/2025_pf_1.jpg',
-      client: '(주)앤유',
-      design: '손영실',
-      field: '포스터, 초대권, 웹배너, 상세페이지, 현장디자인 등',
-      description: '공연의 성격과 시각적 분위기를 전달하기 위한 포스터 중심의 그래픽 작업입니다.',
-      detailImages: ['images/1/2025_pf_1.jpg', 'images/1/2025_pf_1-1.jpg', 'images/1/2025_pf_1-2.jpg']
-    },
-    {
-      id: 'busan-babyfair-2023-32',
-      title: '32회 부산드림베이비페어',
-      category: 'exhibition, work',
-      year: '2023',
-      image: 'images/1/2025_pf_2.jpg',
-      client: '(주)앤유',
+      image: 'images/2/sa-mooi-3.jpg',
       direction: 'Design Team',
-      design: '손영실',
-      field: '포스터, 초대권, 웹배너, 상세페이지, 현장디자인 등',
-      description: '전시의 소재감과 계절감을 밝은 색감과 패턴으로 구성한 작업입니다.',
-      detailImages: ['images/1/2025_pf_2.jpg', 'images/1/2025_pf_2-1.jpg', 'images/1/2025_pf_2-2.jpg']
+      design: '서울옥션 디자인팀',
+      field: '포스터, 배너, 홍보물,',
+      description: '팝업 행사 컨셉과 브랜드 분위기를 전달하기 위한 홍보물 및 현장 그래픽 작업',
+      detailImages: ['images/2/sa-mooi-3.jpg', 'images/2/sa-mooi-4.jpg', 'images/2/sa-mooi-5.jpg']
     },
     {
-      id: 'busan-babyfair-2023-33',
+      id: 'sa-Collecting',
+      title: '서울옥션과 함께하는 컬렉팅의 첫걸음',
+      category: 'graphic design, work',
+      year: '2026',
+      image: 'images/2/sa-collecting-1-1.jpg',
+      design: '서울옥션 디자인팀',
+      field: '모바일 초대장, 온라인 배너, SNS 콘텐츠',
+      description: '컬렉팅 입문 콘텐츠의 메시지를 직관적으로 전달하기 위한 온라인 홍보 및 모바일 콘텐츠 디자인 작업',
+      detailImages: ['images/2/sa-collecting-1.jpg']
+    },
+    {
+      id: 'cheongpung',
       title: '33회 부산드림베이비페어',
       category: 'exhibition, work',
       year: '2023',
       image: 'images/1/2025_pf_3.jpg',
-      field: '포스터, 현수막, 배너, 리플렛, 사인물 등 전시·현장 중심의 시각 콘텐츠 제작',
+      client: '(주)앤유',
+      direction: 'Design Team',
+      design: '손영실',
+      field: '포스터, 초대권, 웹배너, 상세페이지, 현장디자인 등',
       description: '음악의 리듬감과 전통적 이미지를 현대적인 그래픽으로 풀어낸 작업입니다.',
       detailImages: ['images/1/2025_pf_3.jpg', 'images/1/2025_pf_3-1.jpg', 'images/1/2025_pf_3-2.jpg', 'images/1/2025_pf_3-3.jpg', 'images/1/2025_pf_3-4.jpg']
     },
     {
-      id: 'busan-baby-edu-fair-2023-34',
+      id: 'finance-story',
       title: '34회 부산베이비페어&유아교육용품전',
       category: 'exhibition, work',
       year: '2023',
       image: 'images/1/2025_pf_4.jpg',
-      field: '포스터, 현수막, 배너, 리플렛, 사인물 등 전시·현장 중심의 시각 콘텐츠 제작',
-      description: '어린이 관람객이 쉽게 이해할 수 있도록 밝은 일러스트 중심으로 구성한 작업입니다.',
-      detailImages: ['images/1/2025_pf_4.jpg', 'images/1/2025_pf_4-1.jpg', 'images/1/2025_pf_4-2.jpg']
-    },
-    {
-      id: 'busan-baby-edu-fair-2023-35',
-      title: '35회 부산베이비페어&유아교육용품전',
-      category: 'exhibition, work',
-      year: '2023',
-      image: 'images/1/2025_pf_5.jpg',
-      field: '포스터, 현수막, 배너, 리플렛, 사인물 등 전시·현장 중심의 시각 콘텐츠 제작',
-      description: '어린이 관람객이 쉽게 이해할 수 있도록 밝은 일러스트 중심으로 구성한 작업입니다.',
-      detailImages: ['images/1/2025_pf_4.jpg', 'images/1/2025_pf_4-1.jpg', 'images/1/2025_pf_4-2.jpg']
-    },
-    {
-      id: 'busan-baby-edu-fair-2023-36',
-      title: '36회 부산베이비페어&유아교육용품전',
-      category: 'exhibition, work',
-      year: '2023',
-      image: 'images/1/2025_pf_6.jpg',
-      field: '포스터, 현수막, 배너, 리플렛, 사인물 등 전시·현장 중심의 시각 콘텐츠 제작',
+      client: '(주)앤유)',
+      direction: 'Design Team',
+      design: 'Designer',
+      field: '포스터, 안내 그래픽',
       description: '어린이 관람객이 쉽게 이해할 수 있도록 밝은 일러스트 중심으로 구성한 작업입니다.',
       detailImages: ['images/1/2025_pf_4.jpg', 'images/1/2025_pf_4-1.jpg', 'images/1/2025_pf_4-2.jpg']
     }
   ],
   projects: [
     {
-      id: 'busan-dexter-project',
+      id: 'project-01',
       title: 'Personal Project 01',
       category: 'project',
       year: '2026',
-      image: 'images/sample-project-01.svg',
-      client: '삼화플로트',
-      direction: 'Self Direction',
-      design: 'Self Design',
-      field: '브랜딩, 그래픽',
-      description: '개인 프로젝트 설명을 입력하는 영역입니다.',
-      detailImages: ['images/sample-project-01.svg']
-    },
-    {
-      id: 'ulsan-dexter-project',
-      title: '기업/제품 안내 브로슈어',
-      category: 'project',
-      year: '2026',
-      image: 'images/sample-project-01.svg',
-      client: 'Personal',
-      direction: 'Self Direction',
-      design: 'Self Design',
-      field: '브랜딩, 그래픽',
-      description: '개인 프로젝트 설명을 입력하는 영역입니다.',
-      detailImages: ['images/sample-project-01.svg']
-    },
-    {
-      id: 'samhwa-project',
-      title: '기업/제품 안내 브로슈어',
-      category: 'project',
-      year: '2025',
       image: 'images/sample-project-01.svg',
       client: 'Personal',
       direction: 'Self Direction',
@@ -142,16 +87,14 @@ window.PORTFOLIO_DATA = {
     }
   ],
   inform: {
-    aboutTitle: 'About Son Yeongsil',
-    about: 
-    '편집·그래픽·전시 디자인을 전문으로 하는 비주얼 커뮤니케이션 디자이너로, 다양한 매체를 통해 브랜드와 이벤트의 메시지를 시각적으로 효과적으로 전달하며 고객과 관람객의 경험을 풍부하고 인상 깊게 만듭니다. 창의적이고 실용적인 디자인 솔루션을 제공하며, 사람들의 관심을 끌고 소통을 이끌어내는 디자인을 추구합니다.또한 미술교육 경험을 바탕으로 학생들의 개별적 수준과 성향에 맞춘 창의적 표현과 시각적 사고를 지도하며, 디자인과 교육을 결합해 참여자와 관람객이 직접 경험하고 느낄 수 있는 환경을 설계합니다. 이를 통해 교육적 가치와 디자인적 완성도를 동시에 실현합니다.',
-    contact: ['Ban Yunjung | Art Director', 'Oh Hyuntaek | Designer', 'Seo Kanghyeon | Designer'],
-    Education: ['Seong Hayoung | Editor', 'Lee Eunsook | Photographer'],
-    Experience: ['Kim Seil | General Manager'],
-    Certificate: ['문화예술교육사 2급 문화체육관광부(2025)', '아동미술지도사 1급 한국자격검정평가진흥원(2024)', '아동심리상담사 1급    한국자격검정평가진흥원  (2024)'],
-    contact: ['Tel. 010-3260-4380', 'Mail. thsdudtlf21@naver.com'],
-    location: ['Seoul'],
-    web: ['www.sysportfolio.com', 'Instagram']
+    aboutTitle: 'About Hongdan',
+    about: '홍단은 보기 좋은 것을 넘어 본질을 바라보고, 내용을 충실하게 담아 내고자 합니다. 공연 예술분야, 미술 전시분야, 기업 아이덴티티와 홍보, 잡지 출판 분야에 걸친 그래픽 비주얼 작업들로 대중들과 만나고 있습니다. 이곳에 본인 소개 문구 또는 포트폴리오 소개 문구를 입력하면 됩니다.',
+    designTeam: ['Ban Yunjung | Art Director', 'Oh Hyuntaek | Designer', 'Seo Kanghyeon | Designer'],
+    partner: ['Seong Hayoung | Editor', 'Lee Eunsook | Photographer'],
+    management: ['Kim Seil | General Manager'],
+    contact: ['Tel. 02-765-9987', 'Fax. 02-765-9986', 'Mail. hongdan201@naver.com'],
+    location: ['경기 고양시 덕양구 으뜸로 8', '덕은아이에스비즈타워센트럴 1차 2110호', '(10542)'],
+    web: ['Hongdan201', 'Instagram']
   }
 };
 
@@ -235,19 +178,27 @@ function renderInform() {
       <h1>Inform</h1>
       <div class="inform-grid">
         <section class="about">
-          <h3>${info.aboutTitle || ''}</h3>
-          <p>${info.about || ''}</p>
+          <h3>${info.aboutTitle}</h3>
+          <p>${info.about}</p>
         </section>
         <section class="people">
-          ${listBlock('Education', info.Education || [])}
-          ${listBlock('Experience', info.Experience || [])}
-          ${listBlock('Certificate', info.Certificate || [])}
+          ${listBlock('Design Team', info.designTeam)}
+          ${listBlock('Professional Partner', info.partner)}
+          ${listBlock('Management', info.management)}
         </section>
         <section class="contact">
-          ${listBlock('Contact', info.contact || [])}
-          ${listBlock('Location', info.location || [])}
-          ${listBlock('Web/SNS', info.web || [])}
+          ${listBlock('Contact', info.contact)}
+          ${listBlock('Location', info.location)}
+          ${listBlock('Web/SNS', info.web)}
         </section>
+      </div>
+      <h2>Clients</h2>
+      <div class="client-table">
+        <div>Public Institution</div>
+        <div>Corporation Identity</div>
+        <div>Music Performing</div>
+        <div>Art Exhibition</div>
+        <div>Books Magazine</div>
       </div>
     </section>
   `;
@@ -275,3 +226,4 @@ function router() {
 
 window.addEventListener('hashchange', router);
 window.addEventListener('DOMContentLoaded', router);
+
