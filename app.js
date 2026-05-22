@@ -46,7 +46,7 @@ window.PORTFOLIO_DATA = {
       title: '가나문화포럼 41기',
       category: 'exhibition, work',
       year: '2026',
-      image: 'images/2/sa-mooi-3.jpg',
+      image: 'images/2/sa-gana-1.jpg',
       design: '서울옥션 디자인팀',
       field: '포스터, 배너, 홍보물,',
       description: '가나문화포럼 행사 운영에 맞춰 브랜드 분위기와 정보 전달을 고려한 온·오프라인 홍보물 및 현장 그래픽 디자인 작업',
