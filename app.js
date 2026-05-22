@@ -11,16 +11,24 @@ window.PORTFOLIO_DATA = {
   siteTitle: 'PORTFOLIO',
   works: [
     {
-      id: 'sa-THE CHAMBER',
-      title: 'THE CHAMBER',
-      category: 'branding, work',
-      year: '2026',
-      image: 'images/2/the chamber-3.jpg',
-      design: '서울옥션 디자인팀',
-      field: '브랜드 아이덴티티, 멤버십 키트, 패키지, 그래픽 디자인',
-      description: 'THE CHAMBER 멤버십 브랜드 아이덴티티를 기반으로 키트 및 프로모션 디자인 제작',
-      detailImages: ['images/2/the chamber-1.jpg', 'images/2/the chamber-2.jpg', 'images/2/the chamber-3.jpg', 'images/2/the chamber-4.jpg', 'images/2/the chamber-5.jpg']
-    },
+  id: 'sa-the-chamber',
+  title: 'THE CHAMBER',
+  category: 'branding, work',
+  year: '2026',
+  image: 'images/2/the chamber-3.jpg',
+  client: '서울옥션',
+  direction: 'THE CHAMBER 멤버십 브랜드 경험을 확장하는 키트 및 패키지 디자인',
+  design: '서울옥션 디자인팀',
+  field: '브랜드 아이덴티티, 멤버십 키트, 패키지, 그래픽 디자인',
+  description: 'THE CHAMBER 멤버십 브랜드 아이덴티티를 기반으로 키트와 패키지 그래픽을 전개한 디자인 작업입니다.',
+  detailImages: [
+    'images/2/the chamber-1.jpg',
+    'images/2/the chamber-2.jpg',
+    'images/2/the chamber-3.jpg',
+    'images/2/the chamber-4.jpg',
+    'images/2/the chamber-5.jpg'
+  ]
+},
     {
       id: 'sa-MOOI-POPUP',
       title: 'MOOI-POPUP',
