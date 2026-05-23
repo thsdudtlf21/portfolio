@@ -82,7 +82,7 @@ window.PORTFOLIO_DATA = {
       title: '22회 부산카페위크',
       category: 'exhibition, work',
       year: '2024',
-      image: 'images/1/cafe-22-1.jpg',
+      image: 'images/1/cafe-22-1-1.jpg',
       design: 'Designer',
       field: '포스터, 안내 그래픽',
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
