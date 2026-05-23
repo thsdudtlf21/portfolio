@@ -77,7 +77,7 @@ window.PORTFOLIO_DATA = {
       detailImages: ['images/1/dream_33-1.jpg', 'images/1/dream_33-2.jpg', 'images/1/dream_33-3.jpg', 'images/1/dream_33-4.jpg']
     },
     {
-      id: '2025-dream kids',
+      id: '2025-baby kids',
       title: '36회 부산베이베페어&유아교육용품전',
       category: 'exhibition, work',
       year: '2023',
@@ -88,17 +88,15 @@ window.PORTFOLIO_DATA = {
       detailImages: ['images/1/2025_pf_3.jpg', 'images/1/2025_pf_3-1.jpg', 'images/1/2025_pf_3-2.jpg', 'images/1/2025_pf_3-3.jpg', 'images/1/2025_pf_3-4.jpg']
     },
     {
-      id: 'finance-story',
-      title: '34회 부산베이비페어&유아교육용품전',
+      id: '2025-cafeshow',
+      title: '22회 부산카페위크',
       category: 'exhibition, work',
-      year: '2023',
-      image: 'images/1/2025_pf_4.jpg',
-      client: '(주)앤유)',
-      direction: 'Design Team',
+      year: '2024',
+      image: 'images/1/cafe-22-1.jpg',
       design: 'Designer',
       field: '포스터, 안내 그래픽',
-      description: '어린이 관람객이 쉽게 이해할 수 있도록 밝은 일러스트 중심으로 구성한 작업입니다.',
-      detailImages: ['images/1/2025_pf_4.jpg', 'images/1/2025_pf_4-1.jpg', 'images/1/2025_pf_4-2.jpg']
+      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
+      detailImages: ['images/1/cafe-22-1.jpg', 'images/1/cafe-22-2.jpg', 'images/1/cafe-22-3s.jpg']
     }
   ],
   projects: [
