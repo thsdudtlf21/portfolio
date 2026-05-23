@@ -64,16 +64,27 @@ window.PORTFOLIO_DATA = {
       detailImages: ['images/2/sa-collecting-1-2.jpg']
     },
     {
-      id: 'cheongpung',
+      id: '2025-dream',
       title: '33회 부산드림베이비페어',
       category: 'exhibition, work',
       year: '2023',
-      image: 'images/1/2025_pf_3.jpg',
+      image: 'images/1/dream_33-1.jpg',
       client: '(주)앤유',
       direction: 'Design Team',
       design: '손영실',
       field: '포스터, 초대권, 웹배너, 상세페이지, 현장디자인 등',
-      description: '음악의 리듬감과 전통적 이미지를 현대적인 그래픽으로 풀어낸 작업입니다.',
+      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
+      detailImages: ['images/1/dream_33-1.jpg', 'images/1/dream_33-2.jpg', 'images/1/dream_33-3.jpg', 'images/1/dream_33-4.jpg']
+    },
+    {
+      id: '2025-dream kids',
+      title: '36회 부산베이베페어&유아교육용품전',
+      category: 'exhibition, work',
+      year: '2023',
+      image: 'images/1/_pf_3.jpg',
+      design: '손영실',
+      field: '포스터, 초대권, 웹배너, 상세페이지, 현장디자인 등',
+      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
       detailImages: ['images/1/2025_pf_3.jpg', 'images/1/2025_pf_3-1.jpg', 'images/1/2025_pf_3-2.jpg', 'images/1/2025_pf_3-3.jpg', 'images/1/2025_pf_3-4.jpg']
     },
     {
