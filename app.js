@@ -105,8 +105,13 @@ window.PORTFOLIO_DATA = {
     }
   ],
   inform: {
-    aboutTitle: 'About Hongdan',
-    about: '홍단은 보기 좋은 것을 넘어 본질을 바라보고, 내용을 충실하게 담아 내고자 합니다. 공연 예술분야, 미술 전시분야, 기업 아이덴티티와 홍보, 잡지 출판 분야에 걸친 그래픽 비주얼 작업들로 대중들과 만나고 있습니다. 이곳에 본인 소개 문구 또는 포트폴리오 소개 문구를 입력하면 됩니다.',
+    aboutTitle: 'About Son yeongsil',
+    about: '편집·그래픽·전시 디자인을 기반으로 다양한 매체에서 브랜드와 이벤트의 메시지를 효과적으로 전달하는 비주얼 커뮤니케이션 디자이너입니다.
+    </div>
+    고객과 사용자 경험을 고려한 디자인을 지향하며, 직관적이고 인상적인 시각 커뮤니케이션을 추구합니다.
+    </div>
+    또한 미술교육 경험을 바탕으로 디자인과 교육을 연결하며, 참여자들이 직접 경험하고 몰입할 수 있는 시각 환경을 설계합니다.
+',
     designTeam: ['Ban Yunjung | Art Director', 'Oh Hyuntaek | Designer', 'Seo Kanghyeon | Designer'],
     partner: ['Seong Hayoung | Editor', 'Lee Eunsook | Photographer'],
     management: ['Kim Seil | General Manager'],
