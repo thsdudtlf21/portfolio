@@ -22,11 +22,11 @@ window.PORTFOLIO_DATA = {
   field: '브랜드 아이덴티티, 멤버십 키트, 패키지, 그래픽 디자인',
   description: 'THE CHAMBER 멤버십 브랜드 아이덴티티를 기반으로 키트와 패키지 그래픽을 전개한 디자인 작업입니다.',
   detailImages: [
-    'images/2/the chamber-1.jpg',
-    'images/2/the chamber-2.jpg',
-    'images/2/the chamber-3.jpg',
-    'images/2/the chamber-4.jpg',
-    'images/2/the chamber-5.jpg'
+    'images/2/sa-thechamber-3.jpg',
+    'images/2/sa-thechamber-1.jpg',
+    'images/2/sa-thechamber-4.jpg',
+    'images/2/sa-thechamber-5.jpg',
+    'images/2/sa-thechamber-2.jpg'
   ]
 },
     {
