@@ -15,7 +15,7 @@ window.PORTFOLIO_DATA = {
   title: 'THE CHAMBER',
   category: 'branding, work',
   year: '2026',
-  image: 'images/2/the chamber-3.jpg',
+  image: 'images/2/sa-thechamber-3.jpg',
   client: '서울옥션',
   direction: 'THE CHAMBER 멤버십 브랜드 경험을 확장하는 키트 및 패키지 디자인',
   design: '서울옥션 디자인팀',
@@ -34,12 +34,12 @@ window.PORTFOLIO_DATA = {
       title: 'MOOI-POPUP',
       category: 'exhibition, work',
       year: '2026',
-      image: 'images/2/sa-mooi-3.jpg',
+      image: 'images/2/sa-mooi-1.jpg',
       direction: 'Design Team',
       design: '서울옥션 디자인팀',
       field: '포스터, 배너, 홍보물,',
       description: '팝업 행사 컨셉과 브랜드 분위기를 전달하기 위한 홍보물 및 현장 그래픽 작업',
-      detailImages: ['images/2/sa-mooi-3.jpg', 'images/2/sa-mooi-4.jpg', 'images/2/sa-mooi-5.jpg']
+      detailImages: ['images/2/sa-mooi-1.jpg', 'images/2/sa-mooi-2.jpg', 'images/2/sa-mooi-3.jpg']
     },
     {
       id: 'sa-gana',
@@ -50,7 +50,13 @@ window.PORTFOLIO_DATA = {
       design: '서울옥션 디자인팀',
       field: '포스터, 배너, 홍보물,',
       description: '가나문화포럼 행사 운영에 맞춰 브랜드 분위기와 정보 전달을 고려한 온·오프라인 홍보물 및 현장 그래픽 디자인 작업',
-      detailImages: ['images/2/sa-gana-1.jpg']
+      detailImages: [
+        'images/2/sa-gana-1.jpg',
+        'images/2/sa-gana-2.jpg',
+        'images/2/sa-gana-3.jpg',
+        'images/2/sa-gana-4.jpg',
+        'images/2/sa-gana-5.jpg'
+    ]
     },
     {
       id: 'sa-Collecting',
