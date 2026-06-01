@@ -15,18 +15,18 @@ window.PORTFOLIO_DATA = {
   title: 'THE CHAMBER',
   category: 'branding, work',
   year: '2026',
-  image: 'images/2/sa-thechamber-3.jpg',
+  image: 'images/2/the chamber-3.jpg',
   client: '서울옥션',
   direction: 'THE CHAMBER 멤버십 브랜드 경험을 확장하는 키트 및 패키지 디자인',
   design: '서울옥션 디자인팀',
   field: '브랜드 아이덴티티, 멤버십 키트, 패키지, 그래픽 디자인',
   description: 'THE CHAMBER 멤버십 브랜드 아이덴티티를 기반으로 키트와 패키지 그래픽을 전개한 디자인 작업입니다.',
   detailImages: [
-    'images/2/sa-thechamber-3.jpg',
-    'images/2/sa-thechamber-1.jpg',
-    'images/2/sa-thechamber-4.jpg',
-    'images/2/sa-thechamber-5.jpg',
-    'images/2/sa-thechamber-2.jpg'
+    'images/2/the chamber-1.jpg',
+    'images/2/the chamber-2.jpg',
+    'images/2/the chamber-3.jpg',
+    'images/2/the chamber-4.jpg',
+    'images/2/the chamber-5.jpg'
   ]
 },
     {
@@ -34,12 +34,12 @@ window.PORTFOLIO_DATA = {
       title: 'MOOI-POPUP',
       category: 'exhibition, work',
       year: '2026',
-      image: 'images/2/sa-mooi-1.jpg',
+      image: 'images/2/sa-mooi-3.jpg',
       direction: 'Design Team',
       design: '서울옥션 디자인팀',
       field: '포스터, 배너, 홍보물,',
       description: '팝업 행사 컨셉과 브랜드 분위기를 전달하기 위한 홍보물 및 현장 그래픽 작업',
-      detailImages: ['images/2/sa-mooi-1.jpg', 'images/2/sa-mooi-2.jpg', 'images/2/sa-mooi-3.jpg']
+      detailImages: ['images/2/sa-mooi-3.jpg', 'images/2/sa-mooi-4.jpg', 'images/2/sa-mooi-5.jpg']
     },
     {
       id: 'sa-gana',
@@ -50,13 +50,7 @@ window.PORTFOLIO_DATA = {
       design: '서울옥션 디자인팀',
       field: '포스터, 배너, 홍보물,',
       description: '가나문화포럼 행사 운영에 맞춰 브랜드 분위기와 정보 전달을 고려한 온·오프라인 홍보물 및 현장 그래픽 디자인 작업',
-      detailImages: [
-        'images/2/sa-gana-1.jpg',
-        'images/2/sa-gana-2.jpg',
-        'images/2/sa-gana-3.jpg',
-        'images/2/sa-gana-4.jpg',
-        'images/2/sa-gana-5.jpg'
-    ]
+      detailImages: ['images/2/sa-gana-1.jpg']
     },
     {
       id: 'sa-Collecting',
@@ -69,129 +63,53 @@ window.PORTFOLIO_DATA = {
       description: '컬렉팅 입문 콘텐츠의 메시지를 직관적으로 전달하기 위한 온라인 홍보 및 모바일 콘텐츠 디자인 작업',
       detailImages: ['images/2/sa-collecting-1-2.jpg']
     },
-
     {
-      id: '2023-babyfair',
-      title: '36회 부산베이비페어&유아교육용푼전',
-      category: 'exhibition, work',
-      year: '2024',
-      image: 'images/2024-kids-36-1.jpg',
-      field: '포스터, 안내 그래픽',
-      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
-      detailImages: ['images/2024-kids-36-1.jpg', 'images/2024-kids-36-2.jpg', 'images/2024-kids-36-3.jpg']
-    },
-
-    {
-      id: '2023-dream',
+      id: '2025-dream',
       title: '33회 부산드림베이비페어',
       category: 'exhibition, work',
       year: '2023',
-      image: 'images/2023-dream_33-1-1.jpg',
+      image: 'images/1/dream_33-1-1.jpg',
+      client: '(주)앤유',
+      direction: 'Design Team',
+      design: '손영실',
       field: '포스터, 초대권, 웹배너, 상세페이지, 현장디자인 등',
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
-      detailImages: ['images/2023-dream_33-1.jpg', 'images/2023-dream_33-2.jpg', 'images/2023-dream_33-3.jpg', 'images/2023-dream_33-4.jpg', 'images/2023-dream_33-5.jpg']
+      detailImages: ['images/1/dream_33-1.jpg', 'images/1/dream_33-2.jpg', 'images/1/dream_33-3.jpg', 'images/1/dream_33-4.jpg']
     },
   
     {
-      id: '2023-cafeshow',
+      id: '2025-cafeshow',
       title: '22회 부산카페위크',
       category: 'exhibition, work',
       year: '2024',
-      image: 'images/2023-cafe-22-1.jpg',
+      image: 'images/1/cafe-22-1-1.jpg',
+      design: 'Designer',
       field: '포스터, 안내 그래픽',
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
-      detailImages: ['images/2023-cafe-22-1.jpg', 'images/2023-cafe-22-2.jpg', 'images/2023-cafe-22-3.jpg', 'images/2023-cafe-22-4.jpg']
-    },
-    {
-      id: '2023-babyfair',
-      title: '35회 부산베이비페어&유아교육용품전',
-      category: 'exhibition, work',
-      year: '2023',
-      image: 'images/2023-kids-35-1_1.jpg',
-      field: '포스터, 안내 그래픽',
-      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
-      detailImages: ['images/2023-kids-35-1.jpg', 'images/2023-kids-35-2.jpg', 'images/2023-kids-35-3.jpg', 'images/2023-kids-35-4.jpg']
-    },
-    {
-      id: '2023-dream',
-      title: '32회 부산드림베이비페어',
-      category: 'exhibition, work',
-      year: '2023',
-      image: 'images/2023-dream_32-1_1.jpg',
-      field: '포스터, 초대권, 웹배너, 상세페이지, 현장디자인 등',
-      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
-      detailImages: ['images/2023-dream_32-1.jpg', 'images/2023-dream_32-2.jpg', 'images/2023-dream_32-3.jpg', 'images/2023-dream_32-4.jpg']
-    },
-    {
-      id: '2023-cafeshow',
-      title: '22회 부산카페위크',
-      category: 'exhibition, work',
-      year: '2023',
-      image: 'images/2023-cafe-22-1.jpg',
-      field: '포스터, 안내 그래픽',
-      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
-      detailImages: ['images/2023-cafe-22-1.jpg', 'images/2023-cafe-22-2.jpg', 'images/2023-cafe-22-3.jpg', 'images/2023-cafe-22-4.jpg']
-    },
-    {
-      id: '2023-cafeshow',
-      title: '1회 수원 카페&주류위크',
-      category: 'exhibition, work',
-      year: '2023',
-      image: 'images/2023-cafe,al-1-1.jpg',
-      field: '포스터, 안내 그래픽',
-      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
-      detailImages: ['images/2023-cafe,al-22-1-1.jpg', 'images/2023-cafe,al-22-1-2.jpg', 'images/2023-cafe,al-22-1-3.jpg']
-    },
-    {
-      id: '2023-babyfair',
-      title: '34회 부산베이비페어&유아교육용품전',
-      category: 'exhibition, work',
-      year: '2023',
-      image: 'images/2023-kids-34-1.jpg',
-      field: '포스터, 안내 그래픽',
-      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
-      detailImages: ['images/2023-kids-34-1_1.jpg', 'images/2023-kids-34-2.jpg', 'images/2023-kids-34-3.jpg']
-    },
-    {
-      id: '2023-cafeshow',
-      title: '20회 부산카페위크',
-      category: 'exhibition, work',
-      year: '2023',
-      image: 'images/2023-cafe-21-1.jpg',
-      field: '포스터, 안내 그래픽',
-      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
-      detailImages: ['images/2023-cafe-21-1.jpg', 'images/2023-cafe-21-2.jpg', 'images/2023-cafe-21-3.jpg', 'images/2023-cafe-21-4.jpg']
-    },
-    {
-      id: '2023-babyfair',
-      title: '31회 부산베이비페어',
-      category: 'exhibition, work',
-      year: '2022',
-      image: 'images/2022-dream-31-1_1.jpg',
-      field: '포스터, 안내 그래픽',
-      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
-      detailImages: ['images/2022-dream-31-1.jpg', 'images/2022-dream-31-2.jpg', 'images/2022-dream-31-3.jpg']
-    },
+      detailImages: ['images/1/cafe-22-1.jpg', 'images/1/cafe-22-2.jpg', 'images/1/cafe-22-3s.jpg']
+    }
   ],
   projects: [
     {
       id: 'project-01',
-      title: 'SAM HWA FISHING FLOATS BROCHURE',
-      category: 'BROCHURE',
+      title: 'Personal Project 01',
+      category: 'project',
       year: '2025',
-      image: 'images/samhwa-1.jpg',
-      client: 'SAM HWA FISHING FLOATS CO., LTD.',
+      image: 'images/sample-project-01.svg',
+      client: 'Personal',
+      direction: 'Self Direction',
+      design: 'Self Design',
       field: '브랜딩, 그래픽',
-      description: '삼화 브랜드 아이덴티티를 기반으로 한 브로슈어 디자인 작업입니다.',
-      detailImages: ['images/samhwa-1.jpg', 'images/samhwa-6.jpg', 'images/samhwa-3.jpg', 'images/samhwa-4.jpg', 'images/samhwa-.jpg']
+      description: '개인 프로젝트 설명을 입력하는 영역입니다.',
+      detailImages: ['images/sample-project-01.svg']
     }
   ],
   inform: {
-    profileImage: 'images/profile.jpg',
     aboutTitle: 'About Son yeongsil',
     about: '편집·그래픽·전시 디자인을 기반으로 다양한 매체에서 브랜드와 이벤트의 메시지를 효과적으로 전달하는 비주얼 커뮤니케이션 디자이너입니다.고객과 사용자 경험을 고려한 디자인을 지향하며, 직관적이고 인상적인 시각 커뮤니케이션을 추구합니다.또한 미술교육 경험을 바탕으로 디자인과 교육을 연결하며, 참여자들이 직접 경험하고 몰입할 수 있는 시각 환경을 설계합니다.',
     Education: ['창원대학교 미술학과 한국화전공 졸업(2021-2025)'],
     Experience: ['서울옥션 디자인팀 사원(2025.11-2026.05)', '엘리스 디자인팀 사원(2025.02-2025.10)',  '앤유 디자인팀 사원(2022.10-2024.02)'],
+    profileImage: 'images/profile.jpg',
     contact: ['Tel. 010-3260-4380', 'Mail. thsdudtlf21@naver.com'],
     location: ['Seoul/Busan'],
     web: ['sysportfolio.com']
@@ -277,6 +195,9 @@ function renderInform() {
     <section class="inform-page">
       <h1>Inform</h1>
       <div class="inform-grid">
+        <section class="profile-image">
+          <img src="${info.profileImage || ''}" alt="profile" />
+        </section>
         <section class="about">
           <h3>${info.aboutTitle}</h3>
           <p>${info.about}</p>

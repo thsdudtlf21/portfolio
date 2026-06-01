@@ -120,7 +120,7 @@ dd { margin: 0; }
 .inform-page > h2 { padding: 70px 0 10px; }
 .inform-grid {
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr;
+  grid-template-columns: 220px 2fr 1fr 1fr;
   border-top: 0.7px solid #ddd;
   border-bottom: 0.7px solid #ddd;
 }
@@ -273,21 +273,5 @@ dd { margin: 0; }
   }
 }
 
-
-.about-profile{
-  display:flex;
-  align-items:flex-start;
-  gap:20px;
-}
-
-.about-profile img{
-  width:90px;
-  height:90px;
-  object-fit:cover;
-  border-radius:50%;
-  flex-shrink:0;
-}
-
-.about-profile div{
-  flex:1;
-}
+.profile-image{display:flex;align-items:flex-start;justify-content:center;}
+.profile-image img{width:140px;height:140px;object-fit:cover;border-radius:50%;}
