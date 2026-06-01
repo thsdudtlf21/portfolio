@@ -109,7 +109,6 @@ window.PORTFOLIO_DATA = {
     about: '편집·그래픽·전시 디자인을 기반으로 다양한 매체에서 브랜드와 이벤트의 메시지를 효과적으로 전달하는 비주얼 커뮤니케이션 디자이너입니다.고객과 사용자 경험을 고려한 디자인을 지향하며, 직관적이고 인상적인 시각 커뮤니케이션을 추구합니다.또한 미술교육 경험을 바탕으로 디자인과 교육을 연결하며, 참여자들이 직접 경험하고 몰입할 수 있는 시각 환경을 설계합니다.',
     Education: ['창원대학교 미술학과 한국화전공 졸업(2021-2025)'],
     Experience: ['서울옥션 디자인팀 사원(2025.11-2026.05)', '엘리스 디자인팀 사원(2025.02-2025.10)',  '앤유 디자인팀 사원(2022.10-2024.02)'],
-    profileImage: 'images/profile.jpg',
     contact: ['Tel. 010-3260-4380', 'Mail. thsdudtlf21@naver.com'],
     location: ['Seoul/Busan'],
     web: ['sysportfolio.com']
@@ -195,9 +194,6 @@ function renderInform() {
     <section class="inform-page">
       <h1>Inform</h1>
       <div class="inform-grid">
-        <section class="profile-image">
-          <img src="${info.profileImage || ''}" alt="profile" />
-        </section>
         <section class="about">
           <h3>${info.aboutTitle}</h3>
           <p>${info.about}</p>
