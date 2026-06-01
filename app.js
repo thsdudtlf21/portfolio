@@ -174,7 +174,7 @@ window.PORTFOLIO_DATA = {
       client: 'SAM HWA FISHING FLOATS CO., LTD.',
       field: '브랜딩, 그래픽',
       description: '삼화 브랜드 아이덴티티를 기반으로 한 브로슈어 디자인 작업입니다.',
-      detailImages: ['images/samhwa-1.jpg', 'images/samhwa-2.jpg', 'images/samhwa-3.jpg', 'images/samhwa-4.jpg',]
+      detailImages: ['images/samhwa-1.jpg', 'images/samhwa-6.jpg', 'images/samhwa-3.jpg', 'images/samhwa-4.jpg', 'images/samhwa-.jpg']
     }
   ],
   inform: {
@@ -269,8 +269,13 @@ function renderInform() {
       <h1>Inform</h1>
       <div class="inform-grid">
         <section class="about">
-          <h3>${info.aboutTitle}</h3>
-          <p>${info.about}</p>
+          <div class="about-profile">
+            <img src="${info.profileImage}" alt="profile image" />
+            <div>
+              <h3>${info.aboutTitle}</h3>
+              <p>${info.about}</p>
+            </div>
+          </div>
         </section>
         <section class="people">
           ${listBlock('Education', info.Education)}
