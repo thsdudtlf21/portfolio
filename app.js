@@ -178,7 +178,7 @@ window.PORTFOLIO_DATA = {
     }
   ],
   inform: {
-    profileImage: 'images/profile_son_1.jpg',
+    profileImage: 'images/profile_son_11.jpg',
     aboutTitle: 'About Son yeongsil',
     about: '편집·그래픽·전시 디자인을 기반으로 다양한 매체에서 브랜드와 이벤트의 메시지를 효과적으로 전달하는 비주얼 커뮤니케이션 디자이너입니다.고객과 사용자 경험을 고려한 디자인을 지향하며, 직관적이고 인상적인 시각 커뮤니케이션을 추구합니다.또한 미술교육 경험을 바탕으로 디자인과 교육을 연결하며, 참여자들이 직접 경험하고 몰입할 수 있는 시각 환경을 설계합니다.',
     Education: ['창원대학교 미술학과 한국화전공 졸업(2021-2025)'],
