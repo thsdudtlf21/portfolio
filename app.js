@@ -86,7 +86,7 @@ window.PORTFOLIO_DATA = {
       title: '33회 부산드림베이비페어',
       category: 'exhibition, work',
       year: '2023',
-      image: 'images/2023-dream_33-1-1_2.jpg',
+      image: 'images/2023-dream_33-1_2.jpg',
       field: '포스터, 초대권, 웹배너, 상세페이지, 현장디자인 등',
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
       detailImages: ['images/2023-dream_33-1.jpg', 'images/2023-dream_33-2.jpg', 'images/2023-dream_33-3.jpg', 'images/2023-dream_33-4.jpg', 'images/2023-dream_33-5.jpg']
@@ -97,7 +97,7 @@ window.PORTFOLIO_DATA = {
       title: '22회 부산카페위크',
       category: 'exhibition, work',
       year: '2024',
-      image: 'images/2023-cafe-22-1_2.jpg',
+      image: 'images/2023-cafe-22-1_1.jpg',
       field: '포스터, 안내 그래픽',
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
       detailImages: ['images/2023-cafe-22-1.jpg', 'images/2023-cafe-22-2.jpg', 'images/2023-cafe-22-3.jpg', 'images/2023-cafe-22-4.jpg']
