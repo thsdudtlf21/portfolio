@@ -102,6 +102,16 @@ window.PORTFOLIO_DATA = {
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
       detailImages: ['images/2023-cafe-22-1.jpg', 'images/2023-cafe-22-2.jpg', 'images/2023-cafe-22-3.jpg', 'images/2023-cafe-22-4.jpg']
     },
+     {
+      id: '2023-cafeshow',
+      title: '1회 수원 카페&주류위크',
+      category: 'exhibition, work',
+      year: '2023',
+      image: 'images/2023-cafe,al-1-1_1.jpg',
+      field: '포스터, 안내 그래픽',
+      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
+      detailImages: ['images/2023-cafe,al-22-1-1.jpg', 'images/2023-cafe,al-22-1-2.jpg', 'images/2023-cafe,al-22-1-3.jpg']
+    },
     {
       id: '2023-babyfair',
       title: '35회 부산베이비페어&유아교육용품전',
@@ -122,26 +132,7 @@ window.PORTFOLIO_DATA = {
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
       detailImages: ['images/2023-dream_32-1.jpg', 'images/2023-dream_32-2.jpg', 'images/2023-dream_32-3.jpg', 'images/2023-dream_32-4.jpg']
     },
-    {
-      id: '2023-cafeshow',
-      title: '22회 부산카페위크',
-      category: 'exhibition, work',
-      year: '2023',
-      image: 'images/2023-cafe-22-1_1.jpg',
-      field: '포스터, 안내 그래픽',
-      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
-      detailImages: ['images/2023-cafe-22-1.jpg', 'images/2023-cafe-22-2.jpg', 'images/2023-cafe-22-3.jpg', 'images/2023-cafe-22-4.jpg']
-    },
-    {
-      id: '2023-cafeshow',
-      title: '1회 수원 카페&주류위크',
-      category: 'exhibition, work',
-      year: '2023',
-      image: 'images/2023-cafe,al-1-1_1.jpg',
-      field: '포스터, 안내 그래픽',
-      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
-      detailImages: ['images/2023-cafe,al-22-1-1.jpg', 'images/2023-cafe,al-22-1-2.jpg', 'images/2023-cafe,al-22-1-3.jpg']
-    },
+    
     {
       id: '2023-babyfair',
       title: '34회 부산베이비페어&유아교육용품전',
