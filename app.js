@@ -60,7 +60,7 @@ window.PORTFOLIO_DATA = {
     },
     {
       id: 'sa-Collecting',
-      title: '서울옥션과 함께하는 컬렉팅의 첫걸음',
+      title: '컬렉팅의 첫걸음',
       category: 'graphic design, work',
       year: '2026',
       image: 'images/2/sa-collecting-1-3.jpg',
