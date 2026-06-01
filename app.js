@@ -69,31 +69,109 @@ window.PORTFOLIO_DATA = {
       description: '컬렉팅 입문 콘텐츠의 메시지를 직관적으로 전달하기 위한 온라인 홍보 및 모바일 콘텐츠 디자인 작업',
       detailImages: ['images/2/sa-collecting-1-2.jpg']
     },
+
     {
-      id: '2025-dream',
+      id: '2023-babyfair',
+      title: '36회 부산베이비페어&유아교육용푼전',
+      category: 'exhibition, work',
+      year: '2024',
+      image: 'images/1/cafe-22-1-1.jpg',
+      field: '포스터, 안내 그래픽',
+      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
+      detailImages: ['images/1/-1.jpg', 'images/1/cafe-22-2.jpg', 'images/1/cafe-22-3s.jpg']
+    },
+
+    {
+      id: '2023-dream',
       title: '33회 부산드림베이비페어',
       category: 'exhibition, work',
       year: '2023',
       image: 'images/1/dream_33-1-1.jpg',
-      client: '(주)앤유',
-      direction: 'Design Team',
-      design: '손영실',
       field: '포스터, 초대권, 웹배너, 상세페이지, 현장디자인 등',
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
       detailImages: ['images/1/dream_33-1.jpg', 'images/1/dream_33-2.jpg', 'images/1/dream_33-3.jpg', 'images/1/dream_33-4.jpg']
     },
   
     {
-      id: '2025-cafeshow',
+      id: '2023-cafeshow',
       title: '22회 부산카페위크',
       category: 'exhibition, work',
       year: '2024',
       image: 'images/1/cafe-22-1-1.jpg',
-      design: 'Designer',
       field: '포스터, 안내 그래픽',
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
       detailImages: ['images/1/cafe-22-1.jpg', 'images/1/cafe-22-2.jpg', 'images/1/cafe-22-3s.jpg']
-    }
+    },
+    {
+      id: '2023-babyfair',
+      title: '35회 부산베이비페어&유아교육용품전',
+      category: 'exhibition, work',
+      year: '2023',
+      image: 'images/1/kids-35-1_1.jpg',
+      field: '포스터, 안내 그래픽',
+      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
+      detailImages: ['images/1/kids-35-1.jpg', 'images/1/kids-35-2.jpg', 'images/1/kids-35-3.jpg']
+    },
+    {
+      id: '2023-dream',
+      title: '32회 부산드림베이비페어',
+      category: 'exhibition, work',
+      year: '2023',
+      image: 'images/1/dream_32-1_1.jpg',
+      field: '포스터, 초대권, 웹배너, 상세페이지, 현장디자인 등',
+      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
+      detailImages: ['images/1/dream_32-1.jpg', 'images/1/dream_32-2.jpg', 'images/1/dream_32-3.jpg', 'images/1/dream_32-4.jpg']
+    },
+    {
+      id: '2023-cafeshow',
+      title: '22회 부산카페위크',
+      category: 'exhibition, work',
+      year: '2023',
+      image: 'images/1/cafe-22-1.jpg',
+      field: '포스터, 안내 그래픽',
+      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
+      detailImages: ['images/1/cafe-22-1.jpg', 'images/1/cafe-22-2.jpg', 'images/1/cafe-22-3.jpg', 'images/1/cafe-22-4.jpg']
+    },
+    {
+      id: '2023-cafeshow',
+      title: '1회 수원 카페&주류위크',
+      category: 'exhibition, work',
+      year: '2023',
+      image: 'images/1/cafe-22-1-1.jpg',
+      field: '포스터, 안내 그래픽',
+      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
+      detailImages: ['images/1/cafe-22-1.jpg', 'images/1/cafe-22-2.jpg', 'images/1/cafe-22-3s.jpg']
+    },
+    {
+      id: '2023-babyfair',
+      title: '34회 부산베이비페어&유아교육용품전',
+      category: 'exhibition, work',
+      year: '2023',
+      image: 'images/1/kids-34-1.jpg',
+      field: '포스터, 안내 그래픽',
+      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
+      detailImages: ['images/1/kids-34-1_1.jpg', 'images/1/kids-34-2.jpg', 'images/1/kids-34-3.jpg']
+    },
+    {
+      id: '2023-cafeshow',
+      title: '20회 부산카페위크',
+      category: 'exhibition, work',
+      year: '2023',
+      image: 'images/1/cafe-21-1.jpg',
+      field: '포스터, 안내 그래픽',
+      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
+      detailImages: ['images/1/cafe-21-1.jpg', 'images/1/cafe-21-2.jpg', 'images/1/cafe-21-3.jpg', 'images/1/cafe-21-4.jpg']
+    },
+    {
+      id: '2023-babyfair',
+      title: '31회 부산베이비페어',
+      category: 'exhibition, work',
+      year: '2022',
+      image: 'images/1/kids-31-1_1.jpg',
+      field: '포스터, 안내 그래픽',
+      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
+      detailImages: ['images/1/kids-31-1.jpg', 'images/1/kids-31-2.jpg', 'images/1/kids-31-3.jpg']
+    },
   ],
   projects: [
     {
