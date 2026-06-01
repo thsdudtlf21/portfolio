@@ -86,10 +86,10 @@ window.PORTFOLIO_DATA = {
       title: '33회 부산드림베이비페어',
       category: 'exhibition, work',
       year: '2023',
-      image: 'images/2024-dream_33-1-1.jpg',
+      image: 'images/2023-dream_33-1-1.jpg',
       field: '포스터, 초대권, 웹배너, 상세페이지, 현장디자인 등',
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
-      detailImages: ['images/2024-dream_33-1.jpg', 'images/2024-dream_33-2.jpg', 'images/2024-dream_33-3.jpg', 'images/2024-dream_33-4.jpg', 'images/2024-dream_33-5.jpg']
+      detailImages: ['images/2023-dream_33-1.jpg', 'images/2023-dream_33-2.jpg', 'images/2023-dream_33-3.jpg', 'images/2023-dream_33-4.jpg', 'images/2023-dream_33-5.jpg']
     },
   
     {
@@ -97,30 +97,30 @@ window.PORTFOLIO_DATA = {
       title: '22회 부산카페위크',
       category: 'exhibition, work',
       year: '2024',
-      image: 'images/cafe-22-1-1.jpg',
+      image: 'images/2023-cafe-22-1.jpg',
       field: '포스터, 안내 그래픽',
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
-      detailImages: ['images/2024-cafe-22-1.jpg', 'images/2024-cafe-22-2.jpg', 'images/2024-cafe-22-3.jpg', 'images/2024-cafe-22-4.jpg']
+      detailImages: ['images/2023-cafe-22-1.jpg', 'images/2023-cafe-22-2.jpg', 'images/2023-cafe-22-3.jpg', 'images/2023-cafe-22-4.jpg']
     },
     {
       id: '2023-babyfair',
       title: '35회 부산베이비페어&유아교육용품전',
       category: 'exhibition, work',
       year: '2023',
-      image: 'images/2024-kids-35-1_1.jpg',
+      image: 'images/2023-kids-35-1_1.jpg',
       field: '포스터, 안내 그래픽',
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
-      detailImages: ['images/2024-kids-35-1.jpg', 'images/2024-kids-35-2.jpg', 'images/2024-kids-35-3.jpg', 'images/1/2024-kids-35-4.jpg']
+      detailImages: ['images/2023-kids-35-1.jpg', 'images/2023-kids-35-2.jpg', 'images/2023-kids-35-3.jpg', 'images/2023-kids-35-4.jpg']
     },
     {
       id: '2023-dream',
       title: '32회 부산드림베이비페어',
       category: 'exhibition, work',
       year: '2023',
-      image: 'images/1/2024-dream_32-1_1.jpg',
+      image: 'images/2023-dream_32-1_1.jpg',
       field: '포스터, 초대권, 웹배너, 상세페이지, 현장디자인 등',
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
-      detailImages: ['images/2024-dream_32-1.jpg', 'images/2024-dream_32-2.jpg', 'images/2024-dream_32-3.jpg', 'images/2024-dream_32-4.jpg']
+      detailImages: ['images/2023-dream_32-1.jpg', 'images/2023-dream_32-2.jpg', 'images/2023-dream_32-3.jpg', 'images/2023-dream_32-4.jpg']
     },
     {
       id: '2023-cafeshow',
@@ -137,10 +137,10 @@ window.PORTFOLIO_DATA = {
       title: '1회 수원 카페&주류위크',
       category: 'exhibition, work',
       year: '2023',
-      image: 'images/2023-cafe,ai-1-1.jpg',
+      image: 'images/2023-cafe,al-1-1.jpg',
       field: '포스터, 안내 그래픽',
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
-      detailImages: ['images/2023-cafe,ai-22-1-1.jpg', 'images/2023-cafe,ai-22-1-2.jpg', 'images/2023-cafe,ai-22-1-3.jpg']
+      detailImages: ['images/2023-cafe,al-22-1-1.jpg', 'images/2023-cafe,al-22-1-2.jpg', 'images/2023-cafe,al-22-1-3.jpg']
     },
     {
       id: '2023-babyfair',
@@ -187,6 +187,7 @@ window.PORTFOLIO_DATA = {
     }
   ],
   inform: {
+    profileImage: 'images/profile.jpg',
     aboutTitle: 'About Son yeongsil',
     about: '편집·그래픽·전시 디자인을 기반으로 다양한 매체에서 브랜드와 이벤트의 메시지를 효과적으로 전달하는 비주얼 커뮤니케이션 디자이너입니다.고객과 사용자 경험을 고려한 디자인을 지향하며, 직관적이고 인상적인 시각 커뮤니케이션을 추구합니다.또한 미술교육 경험을 바탕으로 디자인과 교육을 연결하며, 참여자들이 직접 경험하고 몰입할 수 있는 시각 환경을 설계합니다.',
     Education: ['창원대학교 미술학과 한국화전공 졸업(2021-2025)'],
