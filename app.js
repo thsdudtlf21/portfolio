@@ -134,16 +134,6 @@ window.PORTFOLIO_DATA = {
     },
     
     {
-      id: '2023-babyfair',
-      title: '34회 부산베이비페어&유아교육용품전',
-      category: 'exhibition, work',
-      year: '2023',
-      image: 'images/2023-kids-34-1_2.jpg',
-      field: '포스터, 안내 그래픽',
-      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
-      detailImages: ['images/2023-kids-34-1_1.jpg', 'images/2023-kids-34-2.jpg', 'images/2023-kids-34-3.jpg']
-    },
-    {
       id: '2023-cafeshow',
       title: '20회 부산카페위크',
       category: 'exhibition, work',
@@ -152,6 +142,16 @@ window.PORTFOLIO_DATA = {
       field: '포스터, 안내 그래픽',
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
       detailImages: ['images/2023-cafe-21-1.jpg', 'images/2023-cafe-21-2.jpg', 'images/2023-cafe-21-3.jpg', 'images/2023-cafe-21-4.jpg']
+    },
+     {
+      id: '2023-babyfair',
+      title: '34회 부산베이비페어&유아교육용품전',
+      category: 'exhibition, work',
+      year: '2023',
+      image: 'images/2023-kids-34-1_2.jpg',
+      field: '포스터, 안내 그래픽',
+      description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
+      detailImages: ['images/2023-kids-34-1_1.jpg', 'images/2023-kids-34-2.jpg', 'images/2023-kids-34-3.jpg']
     },
     {
       id: '2023-babyfair',
