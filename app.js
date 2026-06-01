@@ -127,10 +127,10 @@ window.PORTFOLIO_DATA = {
       title: '32회 부산드림베이비페어',
       category: 'exhibition, work',
       year: '2023',
-      image: 'images/2023-dream_32-1_2.jpg',
+      image: 'images/2023-dream-32-1_2.jpg',
       field: '포스터, 초대권, 웹배너, 상세페이지, 현장디자인 등',
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
-      detailImages: ['images/2023-dream_32-1.jpg', 'images/2023-dream_32-2.jpg', 'images/2023-dream_32-3.jpg', 'images/2023-dream_32-4.jpg']
+      detailImages: ['images/2023-dream-32-1.jpg', 'images/2023-dream-32-2.jpg', 'images/2023-dream-32-3.jpg', 'images/2023-dream-32-4.jpg']
     },
     
     {
