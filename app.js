@@ -18,9 +18,7 @@ window.PORTFOLIO_DATA = {
   image: 'images/2/sa-thechamber-3_1.jpg',
   client: '서울옥션',
   direction: 'THE CHAMBER 멤버십 브랜드 경험을 확장하는 키트 및 패키지 디자인',
-  design: '서울옥션 디자인팀',
   field: '브랜드 아이덴티티, 멤버십 키트, 패키지, 그래픽 디자인',
-  description: 'THE CHAMBER 멤버십 브랜드 아이덴티티를 기반으로 키트와 패키지 그래픽을 전개한 디자인 작업입니다.',
   detailImages: [
     'images/2/sa-thechamber-3.jpg',
     'images/2/sa-thechamber-1.jpg',
@@ -35,8 +33,7 @@ window.PORTFOLIO_DATA = {
       category: 'exhibition, work',
       year: '2026',
       image: 'images/2/sa-mooi-1.jpg',
-      direction: 'Design Team',
-      design: '서울옥션 디자인팀',
+      client: '서울옥션',
       field: '포스터, 배너, 홍보물,',
       description: '팝업 행사 컨셉과 브랜드 분위기를 전달하기 위한 홍보물 및 현장 그래픽 작업',
       detailImages: ['images/2/sa-mooi-1.jpg', 'images/2/sa-mooi-2.jpg', 'images/2/sa-mooi-3.jpg']
@@ -47,7 +44,7 @@ window.PORTFOLIO_DATA = {
       category: 'exhibition, work',
       year: '2026',
       image: 'images/2/sa-gana-8_1.jpg',
-      design: '서울옥션 디자인팀',
+      client: '서울옥션',
       field: '포스터, 배너, 홍보물,',
       description: '가나문화포럼 행사 운영에 맞춰 브랜드 분위기와 정보 전달을 고려한 온·오프라인 홍보물 및 현장 그래픽 디자인 작업',
       detailImages: [
@@ -64,7 +61,7 @@ window.PORTFOLIO_DATA = {
       category: 'graphic design, work',
       year: '2026',
       image: 'images/2/sa-collecting-1-3.jpg',
-      design: '서울옥션 디자인팀',
+      client: '서울옥션',
       field: '모바일 초대장, 온라인 배너, SNS 콘텐츠',
       description: '컬렉팅 입문 콘텐츠의 메시지를 직관적으로 전달하기 위한 온라인 홍보 및 모바일 콘텐츠 디자인 작업',
       detailImages: ['images/2/sa-collecting-1-2.jpg']
