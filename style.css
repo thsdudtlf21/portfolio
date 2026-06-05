@@ -146,6 +146,12 @@ dd { margin: 0; }
   font-weight: 400;
 }
 .empty { padding: 60px; font-size: 20px; }
+
+.exp-line {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+}
 @media (max-width: 1100px) {
   .grid-page { grid-template-columns: repeat(2, 1fr); }
   .site-header { padding: 38px 24px 22px; }
