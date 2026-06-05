@@ -281,6 +281,25 @@ function renderDetail(id) {
 }
 
 function listBlock(title, arr) {
+  if (title === 'Experience') {
+    return `
+      <section>
+        <h3>${title}</h3>
+        ${arr.map(v => {
+          const match = v.match(/^(.*?)\((.*?)\)$/);
+          if (!match) return `<p>${v}</p>`;
+
+          return `
+            <p class="exp-line">
+              <span>${match[1]}</span>
+              <span>${match[2]}</span>
+            </p>
+          `;
+        }).join('')}
+      </section>
+    `;
+  }
+
   return `<section><h3>${title}</h3>${arr.map(v => `<p>${v}</p>`).join('')}</section>`;
 }
 
