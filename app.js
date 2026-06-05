@@ -192,7 +192,7 @@ window.PORTFOLIO_DATA = {
       title: 'ULSAN deXter 운영 지원 사업 ',
       category: 'project',
       year: '2025',
-      image: 'images/2025-dexter-b-1.png',
+      image: 'images/2025-dexter-u-1.png',
       client: 'kotra 울산본부',
       field: '그래픽, 홍보물',
       description: '디지털 무역 지원사업 홍보를 위한 포스터, 배너, 리플렛 등 다양한 홍보물을 제작한 프로젝트',
