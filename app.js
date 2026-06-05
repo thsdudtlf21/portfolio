@@ -175,6 +175,28 @@ window.PORTFOLIO_DATA = {
       field: '브랜딩, 그래픽',
       description: '삼화 브랜드 아이덴티티를 기반으로 한 브로슈어 디자인 작업입니다.',
       detailImages: ['images/samhwa-1.jpg', 'images/samhwa-6.jpg', 'images/samhwa-3.jpg', 'images/samhwa-4.jpg', 'images/samhwa-.jpg']
+    },
+    {
+      id: 'project-02',
+      title: 'BUSAN deXter 운영 지원 사업 ',
+      category: 'project',
+      year: '2025',
+      image: 'images/2025-dexter-b-1.png',
+      client: 'kotra 부산본부',
+      field: '그래픽, 홍보물',
+      description: '디지털 무역 지원사업 홍보를 위한 포스터, 배너, 리플렛 등 다양한 홍보물을 제작한 프로젝트',
+      detailImages: ['images/2025-dexter-b-1.png', 'images/2025-dexter-b-2.png', 'images/2025-dexter-b-3.png']
+    },
+    {
+      id: 'project-03',
+      title: 'ULSAN deXter 운영 지원 사업 ',
+      category: 'project',
+      year: '2025',
+      image: 'images/2025-dexter-b-1.png',
+      client: 'kotra 울산본부',
+      field: '그래픽, 홍보물',
+      description: '디지털 무역 지원사업 홍보를 위한 포스터, 배너, 리플렛 등 다양한 홍보물을 제작한 프로젝트',
+      detailImages: ['images/2025-dexter-u-1.png', 'images/2025-dexter-u-2.png']
     }
   ],
   inform: {
