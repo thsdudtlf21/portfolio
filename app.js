@@ -269,7 +269,6 @@ function renderDetail(id) {
         <dl>
           <div><dt>Client.</dt><dd>${item.client || ''}</dd></div>
           <div><dt>Direction.</dt><dd>${item.direction || ''}</dd></div>
-          <div><dt>Design.</dt><dd>${item.design}</dd></div>
           <div><dt>Field.</dt><dd>${item.field}</dd></div>
         </dl>
         <p class="description">${item.description}</p>
@@ -344,3 +343,4 @@ function router() {
 
 window.addEventListener('hashchange', router);
 window.addEventListener('DOMContentLoaded', router);
+
