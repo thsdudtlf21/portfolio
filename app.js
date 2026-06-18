@@ -18,7 +18,7 @@ window.PORTFOLIO_DATA = {
   image: 'images/2/sa-thechamber-3_1.jpg',
   client: '서울옥션 (In-house Project)',
   field: '브랜드 아이덴티티, 멤버십 키트, 패키지, 그래픽 디자인',
-  direction: ''THE CHAMBER' 멤버십 브랜드 경험을 확장하는 키트 및 패키지 디자인',
+  direction: 'THE CHAMBER 멤버십 브랜드 경험을 확장하는 키트 및 패키지 디자인',
 ,
   detailImages: [
     'images/2/sa-thechamber-3.jpg',
@@ -343,4 +343,3 @@ function router() {
 
 window.addEventListener('hashchange', router);
 window.addEventListener('DOMContentLoaded', router);
-
