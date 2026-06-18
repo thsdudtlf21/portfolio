@@ -16,7 +16,7 @@ window.PORTFOLIO_DATA = {
   category: 'branding, work',
   year: '2026',
   image: 'images/2/sa-thechamber-3_1.jpg',
-  client: '서울옥션',
+  client: '서울옥션 (In-house Project)',
   direction: 'THE CHAMBER 멤버십 브랜드 경험을 확장하는 키트 및 패키지 디자인',
   field: '브랜드 아이덴티티, 멤버십 키트, 패키지, 그래픽 디자인',
   detailImages: [
@@ -33,8 +33,8 @@ window.PORTFOLIO_DATA = {
       category: 'exhibition, work',
       year: '2026',
       image: 'images/2/sa-mooi-1.jpg',
-      client: '서울옥션',
-      field: '포스터, 배너, 홍보물,',
+      client: '서울옥션 (In-house Project)',
+      field: '포스터, 배너, 전시 홍보물',
       description: '팝업 행사 컨셉과 브랜드 분위기를 전달하기 위한 홍보물 및 현장 그래픽 작업',
       detailImages: ['images/2/sa-mooi-1.jpg', 'images/2/sa-mooi-2.jpg', 'images/2/sa-mooi-3.jpg']
     },
@@ -44,8 +44,8 @@ window.PORTFOLIO_DATA = {
       category: 'exhibition, work',
       year: '2026',
       image: 'images/2/sa-gana-8_1.jpg',
-      client: '서울옥션',
-      field: '포스터, 배너, 홍보물,',
+      client: '서울옥션 (In-house Project)',
+      field: '포스터, 배너, 홍보물',
       description: '가나문화포럼 행사 운영에 맞춰 브랜드 분위기와 정보 전달을 고려한 온·오프라인 홍보물 및 현장 그래픽 디자인 작업',
       detailImages: [
         'images/2/sa-gana-1.jpg',
@@ -61,7 +61,7 @@ window.PORTFOLIO_DATA = {
       category: 'graphic design, work',
       year: '2026',
       image: 'images/2/sa-collecting-1-3.jpg',
-      client: '서울옥션',
+      client: '서울옥션 (In-house Project)',
       field: '모바일 초대장, 온라인 배너, SNS 콘텐츠',
       description: '컬렉팅 입문 콘텐츠의 메시지를 직관적으로 전달하기 위한 온라인 홍보 및 모바일 콘텐츠 디자인 작업',
       detailImages: ['images/2/sa-collecting-1-6.jpg','images/2/sa-collecting-1-4.jpg','images/2/sa-collecting-1-5.jpg']
@@ -73,7 +73,7 @@ window.PORTFOLIO_DATA = {
       category: 'exhibition, work',
       year: '2024',
       image: 'images/2024-kids-36-1_2.jpg',
-      field: '포스터, 안내 그래픽',
+      field: '포스터, 초대권, 웹배너, 상세페이지, 현장디자인 등',
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
       detailImages: ['images/2024-kids-36-1.jpg', 'images/2024-kids-36-2.jpg', 'images/2024-kids-36-3.jpg']
     },
@@ -84,7 +84,7 @@ window.PORTFOLIO_DATA = {
       category: 'exhibition, work',
       year: '2023',
       image: 'images/2023-dream-33-1_2.jpg',
-      field: '포스터, 초대권, 웹배너, 상세페이지, 현장디자인 등',
+      field: '홍보물 및 전시 그래픽 디자인',
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
       detailImages: ['images/2023-dream-33-1.jpg', 'images/2023-dream-33-2.jpg', 'images/2023-dream-33-3.jpg', 'images/2023-dream-33-4.jpg', 'images/2023-dream-33-5.jpg']
     },
@@ -95,7 +95,7 @@ window.PORTFOLIO_DATA = {
       category: 'exhibition, work',
       year: '2023',
       image: 'images/2023-cafe-22-1_1.jpg',
-      field: '포스터, 안내 그래픽',
+      field: '홍보물 및 전시 그래픽 디자인',
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
       detailImages: ['images/2023-cafe-22-1.jpg', 'images/2023-cafe-22-2.jpg', 'images/2023-cafe-22-3.jpg', 'images/2023-cafe-22-4.jpg']
     },
@@ -105,7 +105,7 @@ window.PORTFOLIO_DATA = {
       category: 'exhibition, work',
       year: '2023',
       image: 'images/2023-cafe,al-1-1_1.jpg',
-      field: '포스터, 안내 그래픽',
+      field: '홍보물 및 전시 그래픽 디자인',
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
       detailImages: ['images/2023-cafe,al-22-1-1.jpg', 'images/2023-cafe,al-22-1-2.jpg', 'images/2023-cafe,al-22-1-3.jpg']
     },
@@ -115,7 +115,7 @@ window.PORTFOLIO_DATA = {
       category: 'exhibition, work',
       year: '2023',
       image: 'images/2023-kids-35-1_2.jpg',
-      field: '포스터, 안내 그래픽',
+      field: '홍보물 및 전시 그래픽 디자인',
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
       detailImages: ['images/2023-kids-35-1.jpg', 'images/2023-kids-35-2.jpg', 'images/2023-kids-35-3.jpg', 'images/2023-kids-35-4.jpg']
     },
@@ -125,7 +125,7 @@ window.PORTFOLIO_DATA = {
       category: 'exhibition, work',
       year: '2023',
       image: 'images/2023-dream-32-1_2.jpg',
-      field: '포스터, 초대권, 웹배너, 상세페이지, 현장디자인 등',
+      field: '홍보물 및 전시 그래픽 디자인',
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
       detailImages: ['images/2023-dream-32-1.jpg', 'images/2023-dream-32-2.jpg', 'images/2023-dream-32-3.jpg', 'images/2023-dream-32-4.jpg']
     },
@@ -136,7 +136,7 @@ window.PORTFOLIO_DATA = {
       category: 'exhibition, work',
       year: '2023',
       image: 'images/2023-cafe-21-1_1.jpg',
-      field: '포스터, 안내 그래픽',
+      field: '홍보물 및 전시 그래픽 디자인',
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
       detailImages: ['images/2023-cafe-21-1.jpg', 'images/2023-cafe-21-2.jpg', 'images/2023-cafe-21-3.jpg', 'images/2023-cafe-21-4.jpg']
     },
@@ -146,7 +146,7 @@ window.PORTFOLIO_DATA = {
       category: 'exhibition, work',
       year: '2023',
       image: 'images/2023-kids-34-1_2.jpg',
-      field: '포스터, 안내 그래픽',
+      field: '홍보물 및 전시 그래픽 디자인',
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
       detailImages: ['images/2023-kids-34-1_1.jpg', 'images/2023-kids-34-2.jpg', 'images/2023-kids-34-3.jpg']
     },
@@ -156,7 +156,7 @@ window.PORTFOLIO_DATA = {
       category: 'exhibition, work',
       year: '2022',
       image: 'images/2022-dream-31-1_2.jpg',
-      field: '포스터, 안내 그래픽',
+      field: '홍보물 및 전시 그래픽 디자인',
       description: '행사 홍보를 위한 온·오프라인 콘텐츠 및 현장 그래픽 작업을 진행',
       detailImages: ['images/2022-dream-31-1.jpg', 'images/2022-dream-31-2.jpg', 'images/2022-dream-31-3.jpg']
     },
@@ -169,7 +169,7 @@ window.PORTFOLIO_DATA = {
       year: '2025',
       image: 'images/samhwa-1.jpg',
       client: 'SAM HWA FISHING FLOATS CO., LTD.',
-      field: '브랜딩, 그래픽',
+      field: '브로슈어/회사소개서',
       description: '삼화 브랜드 아이덴티티를 기반으로 한 브로슈어 디자인 작업입니다.',
       detailImages: ['images/samhwa-1.jpg', 'images/samhwa-2.jpg', 'images/samhwa-3.jpg', 'images/samhwa-4.jpg', 'images/samhwa-5.jpg']
     },
@@ -179,7 +179,7 @@ window.PORTFOLIO_DATA = {
       category: 'project',
       year: '2025',
       image: 'images/2025-dexter-b-1.png',
-      client: 'kotra 부산본부',
+      client: 'KOTRA 무역투자24 부산본부',
       field: '그래픽, 홍보물',
       description: '디지털 무역 지원사업 홍보를 위한 포스터, 배너, 리플렛 등 다양한 홍보물을 제작한 프로젝트',
       detailImages: ['images/2025-dexter-b-1.png', 'images/2025-dexter-b-2.png', 'images/2025-dexter-b-3.png']
@@ -190,7 +190,7 @@ window.PORTFOLIO_DATA = {
       category: 'project',
       year: '2025',
       image: 'images/2025-dexter-u-1.png',
-      client: 'kotra 울산본부',
+      client: 'KOTRA 무역투자24 울산본부',
       field: '그래픽, 홍보물',
       description: '디지털 무역 지원사업 홍보를 위한 포스터, 배너, 리플렛 등 다양한 홍보물을 제작한 프로젝트',
       detailImages: ['images/2025-dexter-u-1.png', 'images/2025-dexter-u-2.png']
