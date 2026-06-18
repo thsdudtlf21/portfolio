@@ -17,8 +17,9 @@ window.PORTFOLIO_DATA = {
   year: '2026',
   image: 'images/2/sa-thechamber-3_1.jpg',
   client: '서울옥션 (In-house Project)',
-  direction: 'THE CHAMBER 멤버십 브랜드 경험을 확장하는 키트 및 패키지 디자인',
   field: '브랜드 아이덴티티, 멤버십 키트, 패키지, 그래픽 디자인',
+  direction: ''THE CHAMBER' 멤버십 브랜드 경험을 확장하는 키트 및 패키지 디자인',
+,
   detailImages: [
     'images/2/sa-thechamber-3.jpg',
     'images/2/sa-thechamber-1.jpg',
@@ -221,7 +222,7 @@ function itemsByType(type) {
   if (type === 'project') return data.projects;
   return data.works;
 }
-
+ 
 function findItem(id) {
   return [...data.works, ...data.projects].find(item => item.id === id);
 }
