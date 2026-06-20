@@ -19,7 +19,6 @@ window.PORTFOLIO_DATA = {
   client: '서울옥션 (In-house Project)',
   field: '브랜드 아이덴티티, 멤버십 키트, 패키지, 그래픽 디자인',
   direction: 'THE CHAMBER 멤버십 브랜드 경험을 확장하는 키트 및 패키지 디자인',
-,
   detailImages: [
     'images/2/sa-thechamber-3.jpg',
     'images/2/sa-thechamber-1.jpg',
@@ -101,7 +100,7 @@ window.PORTFOLIO_DATA = {
       detailImages: ['images/2023-cafe-22-1.jpg', 'images/2023-cafe-22-2.jpg', 'images/2023-cafe-22-3.jpg', 'images/2023-cafe-22-4.jpg']
     },
      {
-      id: '2023-cafeshow',
+      id: '2023-suwon-cafe-alcohol-week',
       title: '1회 수원 카페&주류위크',
       category: 'exhibition, work',
       year: '2023',
@@ -111,7 +110,7 @@ window.PORTFOLIO_DATA = {
       detailImages: ['images/2023-cafe,al-22-1-1.jpg', 'images/2023-cafe,al-22-1-2.jpg', 'images/2023-cafe,al-22-1-3.jpg']
     },
     {
-      id: '2023-babyfair',
+      id: '2023-kids-35',
       title: '35회 부산베이비페어&유아교육용품전',
       category: 'exhibition, work',
       year: '2023',
@@ -121,7 +120,7 @@ window.PORTFOLIO_DATA = {
       detailImages: ['images/2023-kids-35-1.jpg', 'images/2023-kids-35-2.jpg', 'images/2023-kids-35-3.jpg', 'images/2023-kids-35-4.jpg']
     },
     {
-      id: '2023-dream',
+      id: '2023-dream-32',
       title: '32회 부산드림베이비페어',
       category: 'exhibition, work',
       year: '2023',
@@ -132,7 +131,7 @@ window.PORTFOLIO_DATA = {
     },
     
     {
-      id: '2023-cafeshow',
+      id: '2023-cafe-20',
       title: '20회 부산카페위크',
       category: 'exhibition, work',
       year: '2023',
@@ -142,7 +141,7 @@ window.PORTFOLIO_DATA = {
       detailImages: ['images/2023-cafe-21-1.jpg', 'images/2023-cafe-21-2.jpg', 'images/2023-cafe-21-3.jpg', 'images/2023-cafe-21-4.jpg']
     },
      {
-      id: '2023-babyfair',
+      id: '2023-kids-34',
       title: '34회 부산베이비페어&유아교육용품전',
       category: 'exhibition, work',
       year: '2023',
@@ -152,7 +151,7 @@ window.PORTFOLIO_DATA = {
       detailImages: ['images/2023-kids-34-1_1.jpg', 'images/2023-kids-34-2.jpg', 'images/2023-kids-34-3.jpg']
     },
     {
-      id: '2023-babyfair',
+      id: '2022-dream-31',
       title: '31회 부산베이비페어',
       category: 'exhibition, work',
       year: '2022',
@@ -276,7 +275,7 @@ function renderDetail(id) {
     </section>
   `;
 }
-{
+
 function listBlock(title, arr) {
   if (title === 'Experience') {
     return `
@@ -290,7 +289,6 @@ function listBlock(title, arr) {
   }
 
   return `<section><h3>${title}</h3>${arr.map(v => `<p>${v}</p>`).join('')}</section>`;
-}
 }
 
 function renderInform() {
@@ -317,7 +315,8 @@ function renderInform() {
           ${listBlock('Location', info.location)}
           ${listBlock('Web/SNS', info.web)}
         </section>
-      
+      </div>
+    </section>
   `;
 }
 
