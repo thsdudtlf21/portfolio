@@ -12,7 +12,7 @@ window.PORTFOLIO_DATA = {
   works: [
     {
       id: 'seoulauction-1',
-      title: "서울옥션 'MEMBERSHIP KIT'",
+      title: '서울옥션 'MEBERSHIP KIT'',
       category: 'branding, work',
       year: '2026',
       image: 'images/2/the chamber-4.jpg',
@@ -24,7 +24,7 @@ window.PORTFOLIO_DATA = {
     },
     {
       id: 'seoulauction-1',
-      title: "서울옥션 'MOOI-POPUP'",
+      title: '서울옥션 'MOOI-POPUP'',
       category: 'branding, work',
       year: '2026',
       image: 'images/2/sa-mooi-1.jpg',
@@ -163,67 +163,6 @@ window.PORTFOLIO_DATA = {
 
 const data = window.PORTFOLIO_DATA;
 const app = document.getElementById('app');
-
-
-/* 상세 페이지의 정보 글자가 줄바꿈될 때 다음 항목과 겹치지 않도록 보정 */
-function injectDetailLayoutFix() {
-  if (document.getElementById('detail-layout-fix')) return;
-
-  const style = document.createElement('style');
-  style.id = 'detail-layout-fix';
-  style.textContent = `
-    .detail-info dl,
-    .detail-info dl > div {
-      height: auto !important;
-      min-height: 0 !important;
-    }
-
-    .detail-info dl > div {
-      display: grid !important;
-      grid-template-columns: max-content minmax(0, 1fr) !important;
-      align-items: start !important;
-      column-gap: 8px !important;
-      row-gap: 0 !important;
-      margin-bottom: 14px !important;
-    }
-
-    .detail-info dt,
-    .detail-info dd {
-      position: static !important;
-      top: auto !important;
-      margin: 0 !important;
-      line-height: 1.35 !important;
-    }
-
-    .detail-info dd,
-    .detail-info .description {
-      min-width: 0 !important;
-      white-space: normal !important;
-      overflow-wrap: anywhere !important;
-      word-break: keep-all !important;
-    }
-
-    .detail-info .description {
-      margin-top: 28px !important;
-      line-height: 1.65 !important;
-    }
-
-    @media (max-width: 1100px) {
-      .detail-page {
-        grid-template-columns: 1fr !important;
-      }
-
-      .detail-title,
-      .detail-info {
-        position: static !important;
-        width: auto !important;
-      }
-    }
-  `;
-  document.head.appendChild(style);
-}
-
-injectDetailLayoutFix();
 
 function itemsByType(type) {
   if (type === 'project') return data.projects;
