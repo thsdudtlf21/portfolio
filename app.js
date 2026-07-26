@@ -17,8 +17,8 @@ window.PORTFOLIO_DATA = {
   year: '2026',
   image: 'images/2/sa-thechamber-3_1.jpg',
   client: '서울옥션 (In-house Project)',
-  field: '브랜드 아이덴티티, 멤버십 키트, 패키지, 그래픽 디자인',
-  direction: 'THE CHAMBER 멤버십 브랜드 경험을 확장하는 키트 및 패키지 디자인',
+  field: '노트, 연필, 멤버쉽카드, 카드지갑, 상품권 등',    
+  direction: 'THE CHAMBER 멤버십 브랜드 키트 및 패키지 디자인',
   detailImages: [
     'images/2/sa-thechamber-3.jpg',
     'images/2/sa-thechamber-1.jpg',
@@ -34,8 +34,8 @@ window.PORTFOLIO_DATA = {
       year: '2026',
       image: 'images/2/sa-mooi-1.jpg',
       client: '서울옥션 (In-house Project)',
-      field: '포스터, 배너, 전시 홍보물',
-      description: '팝업 행사 컨셉과 브랜드 분위기를 전달하기 위한 홍보물 및 현장 그래픽 작업',
+      field: '포스터, 배너, 홍보물',
+      description: '팝업 행사 컨셉과 브랜드 분위기를 전달하기 위한 홍보물 및 현장 그래픽 작업 시안',
       detailImages: ['images/2/sa-mooi-1.jpg', 'images/2/sa-mooi-2.jpg', 'images/2/sa-mooi-3.jpg']
     },
     {
@@ -46,7 +46,7 @@ window.PORTFOLIO_DATA = {
       image: 'images/2/sa-gana-8_1.jpg',
       client: '서울옥션 (In-house Project)',
       field: '포스터, 배너, 홍보물',
-      description: '가나문화포럼 행사 운영에 맞춰 브랜드 분위기와 정보 전달을 고려한 온·오프라인 홍보물 및 현장 그래픽 디자인 작업',
+      description: '가나문화포럼 행사 온·오프라인 홍보물 및 현장 그래픽 디자인 작업 시안',
       detailImages: [
         'images/2/sa-gana-1.jpg',
         'images/2/sa-gana-2.jpg',
